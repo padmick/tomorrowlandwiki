@@ -1,5 +1,3 @@
-###[Let's hear your review for tmrwland 2012](http://www.reddit.com/r/Tomorrowland/comments/xds61/questions_for_those_of_you_lucky_enough_to_go/)
-
 **Rules:**
 
 + No sex or drug solicitation
