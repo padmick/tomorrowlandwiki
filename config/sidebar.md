@@ -22,4 +22,4 @@
 
 + [r/electronicmusic] (http://www.reddit.com/r/electronicmusic/)
 
-+ [r/tomorrowworld] (http://www.reddit.com/r/tomorrowworld.com/)
++ [r/tomorrowworld] (http://www.reddit.com/r/tomorrowworld/)
