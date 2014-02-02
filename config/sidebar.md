@@ -14,6 +14,8 @@
 
 **Related Sub-Reddits**
 
++ [r/Tomorrowworld] (http://www.reddit.com/r/tomorrowworld/)
+
 + [r/ElectricDaisyCarnival](http://www.reddit.com/r/electricdaisycarnival)
 
 + [r/festivals](http://www.reddit.com/r/festivals/) or [r/musicfestivals](http://www.reddit.com/r/musicfestivals)
@@ -22,7 +24,9 @@
 
 + [r/electronicmusic] (http://www.reddit.com/r/electronicmusic/)
 
-+ [r/tomorrowworld] (http://www.reddit.com/r/tomorrowworld/)
++ [r/EDM] (http://www.reddit.com/r/EDM)
+
+
 
 ---
 
