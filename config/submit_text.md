@@ -1,0 +1,1 @@
+Before submitting anything read the FAQ to the right.
