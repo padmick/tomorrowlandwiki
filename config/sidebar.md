@@ -26,4 +26,6 @@
 
 ---
 
-Read the FAQ @ http://www.tomorrowland.com/en/faq/frequently-asked-questions-0
+**Read the FAQ @** 
+
+http://www.tomorrowland.com/en/faq/frequently-asked-questions-0
