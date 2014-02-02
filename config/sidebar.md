@@ -4,6 +4,8 @@
 
 + PLUR!!!
 
+
+
 ---
 
 #####[ ](http://www.tomorrowland.be/)
@@ -21,3 +23,7 @@
 + [r/electronicmusic] (http://www.reddit.com/r/electronicmusic/)
 
 + [r/tomorrowworld] (http://www.reddit.com/r/tomorrowworld/)
+
+---
+
+Read the FAQ @ http://www.tomorrowland.com/en/faq/frequently-asked-questions-0
