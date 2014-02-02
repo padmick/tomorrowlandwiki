@@ -28,4 +28,4 @@
 
 **Read the FAQ @** 
 
-http://www.tomorrowland.com/en/faq/frequently-asked-questions-0
+[Tomorrowland FAQ](http://www.tomorrowland.com/en/faq/frequently-asked-questions-0)
