@@ -20,6 +20,8 @@
 
 + [r/ElectricDaisyCarnival](http://www.reddit.com/r/electricdaisycarnival)
 
++ [r/Coachella](http://www.reddit.com/r/Coachella)
+
 + [r/festivals](http://www.reddit.com/r/festivals/) or [r/musicfestivals](http://www.reddit.com/r/musicfestivals)
 
 + [r/aves](http://www.reddit.com/r/aves/)
