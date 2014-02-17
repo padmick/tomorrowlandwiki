@@ -1,1 +1,1 @@
-Before submitting anything read the FAQ to the right.
+Before submitting anything read the [Official FAQ](http://www.tomorrowland.com/en/faq/frequently-asked-questions-0) or the [Q&A/FAQ] (http://www.reddit.com/r/Tomorrowland/comments/1y5whq/official_faqqa_tomorrowland_and_dreamville/)
