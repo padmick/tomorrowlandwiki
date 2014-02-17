@@ -4,9 +4,13 @@
 
 + No sex or drug solicitation
 
-+ PLUR!!!
++ No ticket sale/buying requests outside of the official thread.
 
++ Try to keep the questions in the Q&A/FAQ thread.
 
++ Keep respectful of each other.
+
++ Any and all violations will be removed without warning.
 
 ---
 
