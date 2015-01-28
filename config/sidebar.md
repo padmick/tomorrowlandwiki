@@ -4,7 +4,7 @@
 
 + No sex or drug solicitation
 
-+ No ticket sale/buying requests outside of the [official thread](http://www.reddit.com/r/Tomorrowland/comments/1y2ih1/official_tomorrowland_2014_ticket_buyselltrade/).
++ No ticket sale/buying requests outside of the [official thread](http://www.reddit.com/r/Tomorrowland/comments/2tz31j/official_tomorrowland_2015_ticket_buyselltrade/).
 
 + Try to keep the questions in the [Q&A/FAQ](http://www.reddit.com/r/Tomorrowland/comments/1y5whq/official_faqqa_tomorrowland_and_dreamville/) thread.
 
