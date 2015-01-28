@@ -1,4 +1,4 @@
-###### [Official Buy/Sell/Trade for Reddit Tmrwland]http://www.reddit.com/r/Tomorrowland/comments/2tz31j/official_tomorrowland_2015_ticket_buyselltrade/)
+###### [Official Buy/Sell/Trade for Reddit Tmrwland](http://www.reddit.com/r/Tomorrowland/comments/2tz31j/official_tomorrowland_2015_ticket_buyselltrade/)
 
 **Rules:**
 
