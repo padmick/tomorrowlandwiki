@@ -69,7 +69,7 @@ body:before {
 /* Add or subtract THE SAME AMOUNT ON EACH OF THESE */
 body>.content                   {margin-top:        385px;} 
 .side                           {margin-top:        385px;} 
-.search-page .side              {margin-top:        394px;} 
+.search-page .side              {margin-top:        350px;} 
 .comments-page .side            {margin-top:        558px;}
 .res .comments-page .side       {margin-top:        572px;}
 .comments-page .side .linkinfo  {margin-top:        246px;} 
