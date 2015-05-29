@@ -63,7 +63,7 @@ body:before {
   width: 100%;
   height: 350x;
   background: #393D41 url(%%headerimg%%) fixed no-repeat 0 0;
-  background-size: 100% 350px;
+  background-size: 100% 500px;
 }
 
 /* Add or subtract THE SAME AMOUNT ON EACH OF THESE */
