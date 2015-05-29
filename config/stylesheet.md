@@ -61,7 +61,7 @@ background-size: 268px 290px;
 /* --- Addon: Header Background Image --- */
 body:before {
   width: 100%;
-  height: 350x;
+  height: 500px;
   background: #393D41 url(%%headerimg%%) fixed no-repeat 0 0;
   background-size: 100% 500px;
 }
