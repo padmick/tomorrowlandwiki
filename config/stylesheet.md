@@ -68,7 +68,7 @@ body:before {
 
 /* Add or subtract THE SAME AMOUNT ON EACH OF THESE */
 body>.content                   {margin-top:        385px;} 
-.side                           {margin-top:        420px;} 
+.side                           {margin-top:        385px;} 
 .search-page .side              {margin-top:        394px;} 
 .comments-page .side            {margin-top:        558px;}
 .res .comments-page .side       {margin-top:        572px;}
