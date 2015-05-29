@@ -73,7 +73,7 @@ body>.content                   {margin-top:        385px;}
 .comments-page .side            {margin-top:        558px;}
 .res .comments-page .side       {margin-top:        572px;}
 .comments-page .side .linkinfo  {margin-top:        246px;} 
-#search, .search-page .morelink {top:               350px;} 
+#search, .search-page .morelink {top:               300px;} 
 .morelink                       {top:               394px;}
 #header-bottom-left             {top:               310px;}
 
