@@ -74,7 +74,7 @@ body>.content                   {margin-top:        385px;}
 .res .comments-page .side       {margin-top:        572px;}
 .comments-page .side .linkinfo  {margin-top:        246px;} 
 #search, .search-page .morelink {top:               275px;} 
-.morelink                       {top:               394px;}
+.morelink                       {top:               300px;}
 #header-bottom-left             {top:               310px;}
 
 #header .tabmenu li a, .pagename a {text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);}
