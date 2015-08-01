@@ -62,7 +62,7 @@ background-size: 268px 290px;
 body:before {
   width: 100%;
   height: 375px;
-  background: #393D41 url(%%tomorrowland3%%) fixed no-repeat 0 0;
+  background: #393D41 url(%%headerimg%%) fixed no-repeat 0 0;
   background-size: 100% 375px;
 }
 
