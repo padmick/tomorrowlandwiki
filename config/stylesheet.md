@@ -181,7 +181,7 @@ background: url(%%content%%)!important;
 
 			#header-img.default-header, #header-img {
 				z-index: 99;
-				width: 550px;
+				width: 245px;
 				height: 151px;
 				background-image: url(%%header-img2%%);
 				background-position: 0px 0px;
