@@ -3045,6 +3045,7 @@ background-size: 300px 144px;
     background: rgba(0, 0, 0, 0) url(%%flags%%) no-repeat scroll -9999px -9999px;
     border: 0 none;
     margin-left: 2px;
+  margin-right: 5px;
 
     padding: 0;
 }
@@ -3300,5 +3301,4 @@ color: transparent;
 .flair-za {background-position: -325px -210px}
 .flair-zm {background-position: -350px -210px}
 .flair-zw {background-position: -375px -210px}
-
 
