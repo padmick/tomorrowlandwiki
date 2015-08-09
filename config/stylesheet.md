@@ -3046,17 +3046,11 @@ background-size: 300px 144px;
     border: 0 none;
     margin-left: 2px;
   margin-right: 5px;
-
-    padding: 0;
-}
-.flair {
-    box-shadow: none;
 width: 25px;
 	height: 15px;
 color: transparent;
-
+    padding: 0;
 }
-
 
 .flair-ad {background-position: -25px 0}
 .flair-ae {background-position: -50px 0}
@@ -3301,4 +3295,3 @@ color: transparent;
 .flair-za {background-position: -325px -210px}
 .flair-zm {background-position: -350px -210px}
 .flair-zw {background-position: -375px -210px}
-
