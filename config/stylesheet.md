@@ -3052,7 +3052,7 @@ background-size: 300px 144px;
 .flair {
     box-shadow: none;
 width: 25px;
-	height: 5px;
+	height: 15px;
 color: transparent;
 
 }
