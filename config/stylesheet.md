@@ -3041,6 +3041,21 @@ background-size: 300px 144px;
 .fancy-toggle-button .add {
     background-color: transparent !important;}
 
+.flair {
+    background: rgba(0, 0, 0, 0) url(%%flags%%) no-repeat scroll -9999px -9999px;
+    border: 0 none;
+    margin-left: 2px;
+
+    padding: 0;
+}
+.flair {
+    box-shadow: none;
+width: 25px;
+	height: 15px;
+color: transparent;
+
+}
+
 .flair-ad {background-position: -25px 0}
 .flair-ae {background-position: -50px 0}
 .flair-af {background-position: -75px 0}
