@@ -3048,6 +3048,7 @@ background-size: 300px 144px;
     margin-left: 2px;
 min-width: 25px;
 	height: 15px;
+margin-right: 2px;
    padding: 0;
 }
 
