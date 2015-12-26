@@ -3046,16 +3046,11 @@ background-size: 300px 144px;
     background: rgba(0, 0, 0, 0) url(%%flags%%) no-repeat scroll -9999px -9999px;
     border: 0 none;
     margin-left: 2px;
-
-   padding: 0;
-}
-.flair {
-    box-shadow: none;
 width: 25px;
 	height: 15px;
-color: transparent;
-
+   padding: 0;
 }
+
     
 
 
