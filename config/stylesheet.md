@@ -3317,3 +3317,9 @@ position:relative;
     margin-left: 4px;
     margin-right: 3px;
 }
+
+.comment .author {
+    color: #4d5763;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-right: 0;
