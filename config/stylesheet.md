@@ -3049,7 +3049,7 @@ background-size: 300px 144px;
 min-width: 16px;
 	height: 11px;
 	background:url(%%flags%%) no-repeat
-margin-right: 2px;
+margin-right: 5px;
    padding: 0;
 }
 
