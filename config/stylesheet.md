@@ -3051,6 +3051,7 @@ min-width: 16px;
 	background:url(%%flags%%) no-repeat
 margin-right: 5px;
    padding: 0;
+position:relative;
 }
 
     
