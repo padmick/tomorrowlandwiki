@@ -3323,3 +3323,9 @@ position:relative;
     font-weight: bold;
     margin-left: 5px;
     margin-right: 0;
+}
+
+.link .entry .tagline a.author {
+    margin-left: 5px;
+    margin-right: inherit;
+}
