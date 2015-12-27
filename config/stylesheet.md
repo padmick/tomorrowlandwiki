@@ -3043,11 +3043,14 @@ background-size: 300px 144px;
 
 
 .flair {
+    background: rgba(0, 0, 0, 0) url(%%flags%%) no-repeat scroll -9999px -9999px;
     border: 0 none;
     margin-left: 2px;
 min-width: 16px;
 	height: 11px;
 	background:url(%%flags%%) no-repeat
+margin-right: 5px;
+   padding: 0;
 }
 
     
