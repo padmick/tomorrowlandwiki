@@ -3054,9 +3054,6 @@ margin-right: 5px;
 position:relative;
 }
 
-    
-
-
 
 .flair-ad {background-position: -16px 0}
 .flair-ae {background-position: -32px 0}
@@ -3311,3 +3308,10 @@ position:relative;
 .flair-zanzibar {background-position: -176px -165px}
 .flair-zm {background-position: -192px -165px}
 .flair-zw {background-position: -208px -165px}
+
+
+.flair::before {
+    content: "-";
+    height: auto;
+    margin-left: 10px;
+    margin-right: 3px;
