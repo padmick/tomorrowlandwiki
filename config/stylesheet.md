@@ -3313,5 +3313,5 @@ position:relative;
 .flair::before {
     content: "-";
     height: auto;
-    margin-left: 15px;
+    margin-left: 20px;
     margin-right: 3px;
