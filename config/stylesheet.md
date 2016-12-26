@@ -2964,7 +2964,7 @@ background: url(%%Searchbox%%)!important;
 .content:before {
 width: 100%;
 height: 416px; 
-background: #a01e5b url(%%h01%%) fixed no-repeat 33% 0; 
+background: #a01e5b url(%%Mainstage16%%) fixed no-repeat 33% 0; 
 background-position:0 -125px; 
 background-size: 100%;}
     @media only screen and (min-width : 1921px) {.content:before {background-size: cover;}}
