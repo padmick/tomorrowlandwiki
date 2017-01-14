@@ -217,7 +217,7 @@ display: none;
 
 		 			#header .pagename a:hover {
 		 				text-decoration: none;
-		 				background-color: rgba(0,0,0,0.08);
+		 				background-color: transparent;
 		 			}
 
 		 			#header .pagename a:before {
