@@ -178,6 +178,23 @@ background: url(%%content%%)!important;
 								background-color: #f1f1f1;
 							}
 
+
+
+
+			#header-img.default-header, #header-img {
+				z-index: 99;
+				width: 245px;
+				height: 151px;
+				background-image: url(%%header-img2%%);
+				background-position: 0px 0px;
+				position: absolute;
+				top: 0px;
+				margin: -50px 0px 0 0px;
+			}
+
+				
+
+
                            #header .pagename {
 		 		font-size: 0;
 		 	}
@@ -194,15 +211,6 @@ background: url(%%content%%)!important;
 		 			margin: 0 4px;
 		 			vertical-align: top;
 		 			transition: background-color 0.25s ease;
-
-					z-index: 99;
-					width: 245px;
-					height: 151px;
-					background-image: url(%%header-img2%%);
-					background-position: 0px 0px;
-				        position: absolute;
-				        top: 0px;
-				        margin: -50px 0px 0 0px;
 		 		}
 
 		 			#header .pagename a:hover {
