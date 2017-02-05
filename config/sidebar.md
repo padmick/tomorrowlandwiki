@@ -8,4 +8,4 @@ Rules:
 * Any and all violations will be removed without warning.
 
 ###[Official Site](http://www.tomorrowland.com/)
-###[Guide to Tomorrowland](https://www.reddit.com/r/Tomorrowland/comments/5saisb/guide_to_tomorrowland_2017/
+###[Guide to Tomorrowland](https://www.reddit.com/r/Tomorrowland/comments/5saisb/guide_to_tomorrowland_2017/)
