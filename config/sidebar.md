@@ -4,7 +4,8 @@ Rules:
 *     Try to keep it mainly english (the random other language here and there wont be removed)
 *     **No ticket sale/buying requests!**
 *     Keep respectful of each other.
+* Posts about 3rd party resellers will be deleted
 * Any and all violations will be removed without warning.
 
 ###[Official Site](http://www.tomorrowland.com/)
-###[FAQ](https://www.reddit.com/r/Tomorrowland/comments/2tz4sc/official_faqqa_tomorrowland_and_dreamville_2015/)
+###[Guide to Tomorrowland](https://www.reddit.com/r/Tomorrowland/comments/4z85au/guide_to_tomorrowland_2017//)
