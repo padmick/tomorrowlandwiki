@@ -1,1 +1,1 @@
-Before submitting anything read the [Official FAQ](http://www.tomorrowland.com/en/faq/frequently-asked-questions-0) or the [GUIDE TO TOMORROWLAND] (https://www.reddit.com/r/Tomorrowland/comments/5saisb/guide_to_tomorrowland_2017/)
+Before submitting anything read the [Official FAQ](http://www.tomorrowland.com/en/faq/frequently-asked-questions-0) and the [Guide to Tomorrowland] (https://www.reddit.com/r/Tomorrowland/comments/5saisb/guide_to_tomorrowland_2017/)
