@@ -701,7 +701,7 @@ color: a01e5b !important;
 				width: 48px;
 				position: absolute;
 				right: -268px;
-				top: -36px;
+				top: -55px;
 				background-image: none;
 				border-radius: 32px;
 				background-color: #51A3E8;
