@@ -665,10 +665,10 @@ color: a01e5b !important;
 				div.titlebox span.word {display: none;}
 				.titlebox .users-online {display: inline;}
 				.titlebox .users-online:before {display: none;}
-				div.titlebox span.number:after {content: " readers,";}
+				div.titlebox span.number:after {content: " People of Tomorrow,";}
 				.titlebox .users-online .number {font-style: italic;}
 				.titlebox .users-online .number:before {content: "";}
-				.titlebox .users-online .number:after {content: " here";}
+				.titlebox .users-online .number:after {content: " present";}
 				.titlelebox .word {display: none;}
 				.titlebox .users-online, .titlebox .number {cursor: text;}	
 
