@@ -2969,7 +2969,7 @@ background: url(%%Searchbox%%)!important;
 .content:before {
 width: 100%;
 height: 446px; 
-background: #a01e5b url(%%18theme%%)   33% 0; 
+background: #a01e5b url(%%18theme%%) no-repeat 33% 0; 
 background-position:0 30px; 
 background-size:100%;}
     @media only screen and (min-width : 1921px) {.content:before {background-size: cover;}}
