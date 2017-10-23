@@ -2968,10 +2968,10 @@ background: url(%%Searchbox%%)!important;
 /* --- Addon: Header Background Image --- */
 .content:before {
 width: 100%;
-height: 416px; 
-background: #a01e5b url(%%mainstage17%%) fixed no-repeat 33% 0; 
-background-position:0 -125px; 
-background-size: 100%;}
+height: 446px; 
+background: #a01e5b url(%%18theme%%)   33% 0; 
+background-position:0 30px; 
+background-size:100%;}
     @media only screen and (min-width : 1921px) {.content:before {background-size: cover;}}
 
         /* Add or subtract THE SAME AMOUNT ON EACH OF THESE */
