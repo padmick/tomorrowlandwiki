@@ -2975,15 +2975,15 @@ background-size:100%;}
     @media only screen and (min-width : 1921px) {.content:before {background-size: cover;}}
 
         /* Add or subtract THE SAME AMOUNT ON EACH OF THESE */
-.content                        {margin-top:        451px;} 
-.side                           {margin-top:        555px;} 
-.search-page .side              {margin-top:        503px;} 
-.comments-page .side            {margin-top:        667px;}
-.res .comments-page .side       {margin-top:        681px;}
-.comments-page .side .linkinfo  {margin-top:        390px;} 
-#search, .search-page .morelink {top:               451px;} 
-.morelink                       {top:               503px;}
-#header-bottom-left             {top:               365px;}
+.content                        {margin-top:        511px;} 
+.side                           {margin-top:        615px;} 
+.search-page .side              {margin-top:        563px;} 
+.comments-page .side            {margin-top:        727px;}
+.res .comments-page .side       {margin-top:        741px;}
+.comments-page .side .linkinfo  {margin-top:        450px;} 
+#search, .search-page .morelink {top:               511px;} 
+.morelink                       {top:               563px;}
+#header-bottom-left             {top:               425px;}
 
 #header .tabmenu li a, .pagename a {text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);}
 
