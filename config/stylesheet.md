@@ -2977,11 +2977,21 @@ background: url(%%Searchbox%%)!important;
 /* --- Addon: Header Background Image --- */
 .content:before {
 width: 100%;
-height: 426px; 
+height: 416px; 
 background: #192a3b url(%%18theme3%%) no-repeat 33% 0; 
 background-position:0 0px; 
 background-size:100%;}
-    @media only screen and (min-width : 1921px) {.content:before {background-size: cover;}}
+    @media only screen and (min-width : 1921px) {.content:before {
+
+background-repeat:no-repeat;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+background-size:cover;
+background-position:center;
+background-size: cover;
+
+}}
 
         /* Add or subtract THE SAME AMOUNT ON EACH OF THESE */
 .content                        {margin-top:        511px;} 
@@ -2992,7 +3002,7 @@ background-size:100%;}
 .comments-page .side .linkinfo  {margin-top:        450px;} 
 #search, .search-page .morelink {top:               511px;} 
 .morelink                       {top:               563px;}
-#header-bottom-left             {top:               405px;}
+#header-bottom-left             {top:               415px;}
 
 #header .tabmenu li a, .pagename a {text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);}
 
