@@ -23,39 +23,47 @@
 
 		-------------------------------------------------------------------------- */
 
-
+/*
+	Edit by /u/JointFillah (Tomorrowland 2018 themed):
+	
+	Color Scheme:
+		LightCreme: f7f4ec		(Main Content)
+		Blackish: 192a3b		(Top Reddit Nav)
+		DarkBlueish: 182e5b	(Headers, Subreddit nav)
+					 05162a
+	*/
 
 	*, *:before, *:after { -webkit-box-sizing: border-box;-moz-box-sizing: border-box; box-sizing: border-box;}
 
 	body {
 		overflow-x: hidden;
-		background-color: #eeeeee;
+		background-color: #f7f4ec;
 		min-width: 640px;
-background: url(%%content%%)!important;
- background-repeat: repeat-x;
+		/* background: url(%%content%%)!important;
+		background-repeat: repeat-x; */
 	}
 		
-		/* General Styles - Links / Buttons / Inputs */
-		a {
-			color: #4F8EF7;
-			transition: color 0.15s ease;
-		}
+	/* General Styles - Links / Buttons / Inputs */
+	a {
+		color: #4F8EF7;
+		transition: color 0.15s ease;
+	}
 
 		input:not([type="submit"]), textarea {
 			box-shadow: none!important;
 			background-color: #fff!important;
 			border: 1px solid #e5e5e5!important;
-			color: #a01e5b!important;
+			color: #182e5b!important;
 			transition: all 0.15s ease!important;
 		}
 
 			input:hover, textarea:hover {
-				border-color: #a01e5b!important;
+				border-color: #182e5b!important;
 			}
 
 				input:focus, textarea:focus {
 					outline: none!important;
-					border-color: #a01e5b!important;
+					border-color: #182e5b!important;
 					color: #4D5763!important;
 				}
 
@@ -69,7 +77,7 @@ background: url(%%content%%)!important;
 			-ms-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
 			-webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
 			box-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
-			color: #a01e5b;
+			color: #182e5b;
 			text-transform: capitalize;
 			font-weight: bold;
 			line-height: 26px;
@@ -83,7 +91,7 @@ background: url(%%content%%)!important;
 				-ms-box-shadow: 0 1px 0 0 rgba(0,0,0,0.27);
 				-webkit-box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.27);
 				box-shadow: 0 1px 0 0 rgba(0, 0, 0, 0.27);
-				color: #a01e5b;
+				color: #182e5b;
 			}
 
 				.btn:active, button:active {
@@ -92,7 +100,7 @@ background: url(%%content%%)!important;
 					-webkit-box-shadow: inset 0 2px 0 #D6D6D6;
 					box-shadow: inset 0 2px 0 #D6D6D6;
 					background-color: #E5E5E5;
-					color: #a01e5b;
+					color: #182e5b;
 				}
 
 				.btn:focus, button:focus {outline: none;}
@@ -108,7 +116,7 @@ background: url(%%content%%)!important;
 
 
 			#sr-header-area {
-				background-color: #04091f;
+				background-color: #05162a;
  
 				border: 0px solid;
 				transition: all 0.15s ease;
@@ -194,7 +202,7 @@ background: url(%%content%%)!important;
 
 		 		#header .pagename a {
 		 			display: inline-block;
-		 			color: #a01e5b;
+		 			color: #182e5b;
 		 			font-size: 2px;
 		 			padding: 11px;
 		 	
@@ -234,14 +242,14 @@ background: url(%%content%%)!important;
 				position: absolute;
 				top: 36px;
 				left: 0px;
-background-color: #a01e5b;
+background-color: #182e5b;
     position: absolute;
     width: 100%;
  height: 56px;
 			}
 
 				#header .tabmenu {
-					 background-color: #a01e5b;
+					 background-color: #182e5b;
     border: medium none;
     left: 100px;
     margin: 0;
@@ -580,7 +588,7 @@ background: url(%%Searchbox%%)!important;
 
 
 				.morelink a {
-					color: #a01e5b !important;
+					color: #182e5b !important;
 					font-weight: bold;
 					font-size: 14px;
 					letter-spacing: 0px;
@@ -598,7 +606,7 @@ margin-top: 18px;
 					right: 0px;
 					margin-top: 0px;
 					display: block;
-					background-color: #a01e5b !important;
+					background-color: #182e5b !important;
 					color: #ffffff;
 					letter-spacing: 0px;
 					z-index: 100;
@@ -652,7 +660,7 @@ color: a01e5b !important;
 			
 
 .titlebox h1 a {
-    color: #a01e5b;
+    color: #182e5b;
 }
 			.titlebox span.subscribers, .titlebox .users-online, .titlebox .number {
 				color: #999999;
@@ -771,7 +779,7 @@ color: a01e5b !important;
 						visibility: visible;
 						margin-top: 40px;
 						color: #ffffff;
-						background-color: #a01e5b !important;
+						background-color: #182e5b !important;
 						box-shadow: 0px 1px 5px rgba(0,0,0,0.24);
 					}
 
@@ -779,7 +787,7 @@ color: a01e5b !important;
 					.titlebox .fancy-toggle-button .remove:after {content: "Unsubscribe";}
 					.titlebox .fancy-toggle-button .remove:hover:after {
 						visibility: visible;
-						background-color: #a01e5b !important;
+						background-color: #182e5b !important;
 						color: #fff;
 						margin-top: 40px;
 						box-shadow: 0px 1px 5px rgba(0,0,0,0.24);
@@ -820,10 +828,10 @@ background: url(%%Searchbox%%)!important;
 				right: 16px;
 				width: 300px;
 				height: 73px;
-					background-color: #background-color: #a01e5b;
+					background-color: #background-color: #182e5b;
 					font-family: verdana,arial,sans-serif;
 					
-					color: #a01e5b;
+					color: #182e5b;
 					letter-spacing: 0;
 					display: block;
 					margin: 1.5em -15px;
@@ -963,7 +971,7 @@ background: url(%%Searchbox%%)!important;
 							margin: 1px 0px 1px 0px;
 						}
 
-							.link .score.likes {color: #a01e5b;}
+							.link .score.likes {color: #182e5b;}
 							.link .score.dislikes {color: #c3c3c3;}
 
 						.arrow {
@@ -1001,7 +1009,7 @@ background: url(%%Searchbox%%)!important;
 									    white-space: nowrap;
 									    content: "+1";
 									    bottom: 15px;
-									    color:#a01e5b;
+									    color:#182e5b;
 									    -webkit-animation: upvote 0.8s ease-out forwards;
 									}
 
@@ -1026,7 +1034,7 @@ background: url(%%Searchbox%%)!important;
 									margin-top: -6px;
 									margin-left: 32px;
 									padding: 12px;
-									background-color: #a01e5b;
+									background-color: #182e5b;
 									border: none;
 									border-radius: 2px;
 									color: #ffffff;
@@ -1041,7 +1049,7 @@ background: url(%%Searchbox%%)!important;
 
 									.arrow.down:hover:after {
 										visibility: visible;
-										background-color: #a01e5b;
+										background-color: #182e5b;
 										color: #FFF;
 										margin-left: 48px;
 									}
@@ -2792,7 +2800,7 @@ background: url(%%Searchbox%%)!important;
 	 {color: #00a478;}
 
 	 /* Nightmode misc fixes */
-	 .res-nightmode .share-button .option, .res-nightmode #subscribe a, .res-nightmode .share .option, .res-nightmode .tagline a, .res-nightmode .tagline .head .author, .res-nightmode .footer a, .res-nightmode .wired a, .res-nightmode .side a, .res-nightmode .subredditbox li a, .res-nightmode .link .score.dislikes, .res-nightmode .linkcompressed .score.dislikes, .res-nightmode a[rel="tag"], .res-nightmode .dsq-help, .res-nightmode #authorInfoToolTip h3 a, .res-nightmode .RES-keyNav-activeElement .md, .res-nightmode .help-toggle .option, .res-nightmode .morecomments a, .res-nightmode .reddiquette, .res-nightmode .parent .author, .res-nightmode .parent .subreddit, .res-nightmode .comment .md p a, .res-nightmode .flair, .res-nightmode .morelink:hover a {color: #a01e5b}
+	 .res-nightmode .share-button .option, .res-nightmode #subscribe a, .res-nightmode .share .option, .res-nightmode .tagline a, .res-nightmode .tagline .head .author, .res-nightmode .footer a, .res-nightmode .wired a, .res-nightmode .side a, .res-nightmode .subredditbox li a, .res-nightmode .link .score.dislikes, .res-nightmode .linkcompressed .score.dislikes, .res-nightmode a[rel="tag"], .res-nightmode .dsq-help, .res-nightmode #authorInfoToolTip h3 a, .res-nightmode .RES-keyNav-activeElement .md, .res-nightmode .help-toggle .option, .res-nightmode .morecomments a, .res-nightmode .reddiquette, .res-nightmode .parent .author, .res-nightmode .parent .subreddit, .res-nightmode .comment .md p a, .res-nightmode .flair, .res-nightmode .morelink:hover a {color: #182e5b}
 	 .res-nightmode .side .titlebox, res-nightmode .side .spacer .titlebox .redditname, .res-nightmode body .content, .res-nightmode #header-bottom-right, .res-nightmode .flair, .res-nightmode .side .spacer .titlebox .redditname {background-color: transparent;}
 	 .res .res-nightmode .RES-keyNav-activeElement, .res-nightmode .RES-keyNav-activeElement .usertext-body, .res-nightmode .RES-keyNav-activeElement .usertext-body .md, .res-nightmode .RES-keyNav-activeElement .usertext-body .md p, .res-nightmode .commentarea .RES-keyNav-activeElement .noncollapsed, .res-nightmode .RES-keyNav-activeElement .noncollapsed .md, .res-nightmode .RES-keyNav-activeElement .noncollapsed .md p,
 	 .res-nightmode .side .md ul {background-color: transparent !important;}
@@ -2968,8 +2976,8 @@ background: url(%%Searchbox%%)!important;
 /* --- Addon: Header Background Image --- */
 .content:before {
 width: 100%;
-height: 446px; 
-background: #a01e5b url(%%18theme3%%) no-repeat 33% 0; 
+height: 406px; 
+background: #192a3b url(%%18theme3%%) no-repeat 33% 0; 
 background-position:0 0px; 
 background-size:100%;}
     @media only screen and (min-width : 1921px) {.content:before {background-size: cover;}}
@@ -2983,7 +2991,7 @@ background-size:100%;}
 .comments-page .side .linkinfo  {margin-top:        450px;} 
 #search, .search-page .morelink {top:               511px;} 
 .morelink                       {top:               563px;}
-#header-bottom-left             {top:               425px;}
+#header-bottom-left             {top:               380px;}
 
 #header .tabmenu li a, .pagename a {text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);}
 
@@ -2994,7 +3002,7 @@ background-size:100%;}
 .submit-page #newlink.submit.content .tabmenu.formtab .selected a, .submit-page .infobar, 
 .submit-page #newlink.submit.content .btn, .drop-choices a.choice:hover, .linkflairlabel, .fancy-toggle-button .remove:active
 .expando-button:hover, .top-page .content .menuarea .dropdown.lightdrop .selected, .expando-button:hover, .side .titlebox .md h3 a,
-.res div.RES-keyNav-activeElement, .res div.commentarea div.RES-keyNav-activeElement.entry div.noncollapsed {background-color: #a01e5b}
+.res div.RES-keyNav-activeElement, .res div.commentarea div.RES-keyNav-activeElement.entry div.noncollapsed {background-color: #182e5b}
 
     /* Hover color = 10% white overlay color */
     .morelink:hover, .submit-page #newlink.submit.content .tabmenu.formtab .selected a:hover,
@@ -3013,7 +3021,7 @@ body .content .sitetable .link .title a:hover, .link .domain a:hover, .link .ent
 .link .entry .buttons li a.flairselectbtn, .comment .flat-list li a[onclick*="reply"], 
 .comment .flat-list li a:hover, .tagline .submitter, .tagline .submitter, .side:after, 
 .usertext .bottom-area a.reddiquette, .side .titlebox .md h6 a
- {color: #a01e5b;}
+ {color: #182e5b;}
 /* --- End Addon --- */
 
 #header-img.submit-page {
