@@ -28,9 +28,10 @@
 	
 	Color Scheme:
 		LightCreme: f7f4ec		(Main Content)
-		Blackish: 192a3b		(Top Reddit Nav)
-		DarkBlueish: 182e5b	(Headers, Subreddit nav)
-					 05162a
+		Blackish: 05162a		(Top Reddit Nav)
+		DarkBlueish: 192a3b		(Header Background Image BG)
+		Blueish: 182e5b			(Headers, Subreddit nav)
+		StickyLing: 			(Stickied link, was 65b354)
 	*/
 
 	*, *:before, *:after { -webkit-box-sizing: border-box;-moz-box-sizing: border-box; box-sizing: border-box;}
@@ -1103,11 +1104,11 @@ background: url(%%Searchbox%%)!important;
 
 
 						.linkflair-mod .linkflairlabel {
-							background-color: #65B354;
+							background-color: #68b6c0;
 							color: #fff;
 						}
 
-							.linkflair-mod a {color: #65B354!important;}
+							.linkflair-mod a {color: #68b6c0!important;}
 							.linkflair-mod .thumbnail.default, .linkflair-mod .thumbnail.self {background: url(%%spritesheet%%) -3px -80px !important;}
 
 					/* Submission Title */
@@ -1247,7 +1248,7 @@ background: url(%%Searchbox%%)!important;
 							cursor: help;
 						}
 
-							.link .entry .tagline .userattrs a.moderator {background-color: #65B354;}
+							.link .entry .tagline .userattrs a.moderator {background-color: #68b6c0;}
 							
 
 
@@ -1403,8 +1404,8 @@ background: url(%%Searchbox%%)!important;
 						border-radius: 2px 2px 0px 0px;
 					}
 
-						.thing.stickied a.title, .thing.stickied a, .thing.stickied .entry li .comments {color: #65b354!important;}					
-						.thing.stickied .expando-button:hover {background-color: #65b354!important;border-color: #65b354!important;}
+						.thing.stickied a.title, .thing.stickied a, .thing.stickied .entry li .comments {color: #68b6c0!important;}					
+						.thing.stickied .expando-button:hover {background-color: #68b6c0!important;border-color: #68b6c0!important;}
 						.tagline .stickied-tagline {color: #b3b3b3;cursor: help;}
 						.thing.stickied .domain {display: none;}
 
@@ -2012,7 +2013,7 @@ background: url(%%Searchbox%%)!important;
 									}
 
 									.tagline .moderator, .green {
-										color: #65B354;
+										color: #68b6c0;
 										font-weight: bold;
 									}
 
@@ -2535,7 +2536,7 @@ background: url(%%Searchbox%%)!important;
 
 			/* Bunch of RES (Reddit Enhancement Suite) Fixes */
 			.res .link .tagline a.voteWeight {background-color: transparent !important;}
-			.res .thing .tagline .author.moderator {background-color: #65B354 !important;padding: 1px 4px;border-radius: 1px;}
+			.res .thing .tagline .author.moderator {background-color: #68b6c0 !important;padding: 1px 4px;border-radius: 1px;}
 
 			.res .srSep {color: rgba(255,255,255,0.45);}
 			.res #RESShortcutsViewport, .res #RESShortcutsEditContainer {margin-right: 312px;}
@@ -2976,7 +2977,7 @@ background: url(%%Searchbox%%)!important;
 /* --- Addon: Header Background Image --- */
 .content:before {
 width: 100%;
-height: 406px; 
+height: 446px; 
 background: #192a3b url(%%18theme3%%) no-repeat 33% 0; 
 background-position:0 0px; 
 background-size:100%;}
@@ -2991,7 +2992,7 @@ background-size:100%;}
 .comments-page .side .linkinfo  {margin-top:        450px;} 
 #search, .search-page .morelink {top:               511px;} 
 .morelink                       {top:               563px;}
-#header-bottom-left             {top:               380px;}
+#header-bottom-left             {top:               425px;}
 
 #header .tabmenu li a, .pagename a {text-shadow: 0px 1px 8px rgba(0, 0, 0, 0.5);}
 
