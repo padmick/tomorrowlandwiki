@@ -7,6 +7,7 @@ Rules:
 *     ALWAYS spoiler-tag your posts if necessary!
 *     Try to keep it mainly english (the random other language here and there wont be removed)
 *     Keep respectful of each other
+* No playlists and mixes
 * Any and all violations will be removed without warning
 
 ###[Official Site](http://www.tomorrowland.com/)
