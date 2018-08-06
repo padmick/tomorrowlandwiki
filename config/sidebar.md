@@ -2,8 +2,9 @@ Rules:
 
 *     **No ticket sale/buying/exchange requests**
 *     Posts about UNOFFICIAL ticket resellers will be deleted
-*     No sex or drug solicitation
+*     No sex or drug solicitation/promotion
 *     Tomorrowland rules apply here too so do not expect help circumventing them
+*     No discussion around Security or ways to circumvent security.
 *     ALWAYS spoiler-tag your posts if necessary
 *     Keep it English
 *     Keep respectful of each other
