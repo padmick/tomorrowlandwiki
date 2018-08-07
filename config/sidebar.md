@@ -13,3 +13,4 @@ Rules:
 
 ###[Official Site](http://www.tomorrowland.com/)
 ###[Guide to Tomorrowland 2019](https://www.reddit.com/r/Tomorrowland/comments/94mjrn/guide_to_tomorrowland_2019/)
+###[Guide to Tomorrowland Winter](https://old.reddit.com/r/Tomorrowland/comments/95aczf/guide_to_tomorrowland_winter/)
