@@ -3045,7 +3045,7 @@ padding: 146px 0 0 !important;
 background:url(%%TomorrowlandLogo18%%) 
 top center no-repeat;
 margin-top:15px;
-background-size: 300px 144px;
+background-size: 245px 144px;
 
 }
 /*Link to sidebar image Add link in sidebar no punctuation*/
