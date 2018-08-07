@@ -3042,7 +3042,7 @@ background-image: none;
 /*Add Image to Sidebar*/
 div.side div.spacer:nth-of-type(1){
 padding: 146px 0 0 !important;
-background:url(%%TomorrowlandLogo18%%) 
+background:url(%%logo%%) 
 top center no-repeat;
 margin-top:15px;
 background-size: 300px 144px;
@@ -3050,9 +3050,9 @@ background-size: 300px 144px;
 }
 /*Link to sidebar image Add link in sidebar no punctuation*/
 .side a[href*="change to url"] {
-  width: 250px;
+  width: 268px;
   height: 300px;
-  background: url(%%TomorrowlandLogo18%%) top center no-repeat;
+  background: url(%%logo%%) top center no-repeat;
   margin-top: 15px;
   background-size: 268px 420px;
   position: absolute;
