@@ -3050,7 +3050,7 @@ background-size: 300px 144px;
 }
 /*Link to sidebar image Add link in sidebar no punctuation*/
 .side a[href*="change to url"] {
-  width: 260px;
+  width: 250px;
   height: 300px;
   background: url(%%TomorrowlandLogo18%%) top center no-repeat;
   margin-top: 15px;
