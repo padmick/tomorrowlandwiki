@@ -2978,7 +2978,7 @@ background: url(%%Searchbox%%)!important;
 .content:before {
 width: 100%;
 height: 416px; 
-background: #192a3b url(%%TomorrowlandLogo18%%) no-repeat 33% 0; 
+background: #192a3b url(%%Tomorrowland1%%) no-repeat 33% 0; 
 background-position:0 0px; 
 background-size:100%;}
     @media only screen and (min-width : 1921px) {.content:before {
