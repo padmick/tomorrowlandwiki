@@ -2980,7 +2980,7 @@ width: 100%;
 height: 416px; 
 background: #192a3b url(%%LOGO%%) no-repeat 33% 0; 
 background-position:0 0px; 
-background-size:100%;}
+background-size:50%;}
     @media only screen and (min-width : 1921px) {.content:before {
 
 background-repeat:no-repeat;
