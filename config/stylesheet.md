@@ -2977,7 +2977,7 @@ background: url(%%Searchbox%%)!important;
 /* --- Addon: Header Background Image --- */
 .content:before {
 width: 100%;
-height: 416px; 
+height: 100%x; 
 background: #192a3b url(%%TmlLogo%%) no-repeat 33% 0; 
 background-position:0 0px; 
 background-size:100%;}
