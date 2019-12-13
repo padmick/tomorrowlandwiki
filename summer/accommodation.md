@@ -20,11 +20,7 @@ All Magnificent Greens Packages include: 
 * An air mattress for one person
 * A sleeping bag for one person
 
-&#x200B;
-
 Pick up your tent and backpack with air mattress and sleeping bag at one of DreamVille entrances and find your own spot at the Magnificent Greens.
-
-&#x200B;
 
 All Magnificent Greens 1P Tent Packages include: 
 
