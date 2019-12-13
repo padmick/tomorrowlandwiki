@@ -132,3 +132,107 @@ All Friendship Garden Packages include: 
 * Ten [Tomorrowland Full Madness our Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Friendship Garden Area 
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+#**Easy Tent**
+
+Would you like to spend your nights in the atmosphere of dreamville but you don’t want to carry a lot of luggage? Come to dreamville in a relaxed way without bringing your tent. A limited edition tomorrowland tent with inflatable air mattress and sleeping bag will be ready for you at your arrival. In your tent you will also find a night light, a mirror and a lock for your tent. After the festival you can take this tent and its items with you.
+
+####**Easy Tent 2P**
+
+![] (%%ET2ppl%%)
+
+This package includes: 
+
+* A limited edition Tomorrowland tent: 265 x 265 x 205 cm 
+* A double air mattress
+* Two sleeping bags for one person
+* A night light
+* A mirror
+* A lock for your tent
+
+All Easy Tent 2P Packages include: 
+
+* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Two T[omorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Easy Tent Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+####**Spectacular Easy Tent 2P**
+
+![] (%%SpecET2ppl%%)
+
+This package includes:
+
+* A limited edition Tomorrowland tent on wooden flooring: 265 x 265 x 205 cm
+* A double air mattress 
+* Two sleeping bags for one person
+* A night light
+* A mirror
+* Lock for your tent
+* Power outlet (220 volt – EU outlet)  in your tent
+* Two DreamVille chairs
+* A locker (24x28x50cm)
+
+All Easy Tent 2P Packages include: 
+
+* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Two T[omorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Easy Tent Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+####**Supreme Easy Tent 2P**
+
+![] (%%SupremeET2ppl1%%)
+![] (%%SupremeET2ppl2%%)
+
+This package includes: 
+
+* A custom made Tomorrowland tent: 260 x 270 cm 
+* Two fully equipped beds
+* Lock for your tent
+* Power outlet (220 volt – EU outlet) in your tent
+* Two relax chairs
+
+**All Easy Tent 2P Packages include:** 
+
+* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Easy Tent Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+####**Easy Tent 4P**
+
+![] (%%ET4ppl%%)
+
+* A limited edition Tomorrowland tent: 2 x (265 x 265 x 230 cm)
+* Two double air mattress
+* Four sleeping bags for one person
+* Two night lights
+* Two mirrors
+* A lock for your tent
+
+All Easy Tent 4P Packages include: 
+
+* Four [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Four [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Easy Tent Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+####**Spectacular Easy Tent 4P**
+
+* A limited edition Tomorrowland tent on wooden flooring: 2 x (265 x 265 x 230 cm)
+* Two double air mattress
+* Four sleeping bags per package
+* Two night lights
+* Two mirrors
+* A lock for your tent
+* Two Power outlets (220 volt – EU outlet)  in your tent
+* Four DreamVille chairs
+* Two lockers (24x28x50cm)
+
+All Easy Tent 4P Packages include: 
+
+* Four [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Four [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Easy Tent Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
