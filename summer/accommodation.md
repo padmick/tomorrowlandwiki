@@ -49,6 +49,7 @@ All Magnificent Greens 2P Tent Packages include: 
 &#x200B;
 
 # **Camp2Camp**
+![] (%%Camp2Camp%%)
 
 Camp2camp is about facilitating your camping experience in an ecologically and socially responsible way. You won’t have to bring any camping gear yourself. It will all be ready and pre-pitched for you. By choosing camp2camp, you’ll contribute to a social cause without any extra effort.
 
