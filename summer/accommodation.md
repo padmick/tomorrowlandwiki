@@ -179,3 +179,118 @@ This package includes: 
 * Two Power outlets (220 volt – EU outlet)  in your tent
 * Four DreamVille chairs
 * Two lockers (24x28x50cm)
+
+#**Montagoe**
+
+Enjoy your stay in a spacious, luxurious tent with comfortable bed and mattress and soft bed sheets. Everything is foreseen so you can absorb the wonders of the dreamville campsite without the packing stress.
+
+&#x200B;
+
+You will be welcomed in the montagoe chill-out area. The montagoe offers quality catering, swimming pool, a separate bar and restaurant etc. The montagoe lobby team are at your service 24h/24h.
+
+**All Montagoe Packages include:** 
+
+* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/at-dreamville)
+* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Montagoe Area \`
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/at-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/at-dreamville/marketplace)
+
+&#x200B;
+
+####**Relax Room 2P**
+![] (%%RelaxRoom1%%)
+![] (%%RelaxRoom2%%)
+
+This package includes: 
+
+* Your lockable Relax Room accommodation: 300 x 240 cm 
+* Two fully equipped beds
+* Two chairs and a table 
+* A Personal power outlet (220 volt – EU outlet) per person 
+* Interior lighting 
+* Clothing rack per person
+* Parking
+
+####**Spectacular Relax Room 2P**
+
+This package includes: 
+
+* Your lockable Relax Room accommodation: 300 x 240 cm
+* Two fully equipped beds
+* Two chairs and a table 
+* A power outlet (220 volt – EU outlet) per person
+* Interior lighting 
+* Clothing rack per person 
+* Free sanitary facilities within 10 meters of your Spectacular Relax Room
+* A cozy garden to share with your neighbors
+* Parking
+
+####**Dreamlodge 2P**
+![] (%%Dreamlodge1%%)
+![] (%%Dreamlodge2%%)
+
+This package includes: 
+
+* Your lockable DreamLodge tent: 310 x 220 cm
+* Two fully equipped beds
+* Two chairs and a table
+* An USB power outlet per person
+* Interior lighting
+* A locker (9x27x43 cm) in your accommodation
+* Parking 
+
+####**Spectacular Dreamlodge 2P**
+
+This package includes: 
+
+* Your lockable DreamLodge tent + 50% extra interior space: 517 x 220 cm
+* Two fully equipped beds
+* Two chairs and a table
+* An USB power outlet per person
+* Interior lighting
+* A locker (9x27x43 cm) in your accommodation
+* Nice living room with a comfortable couch and a little fan
+* Parking
+
+####**Kokono 2P**
+![] (%%Kokono1%%)
+![] (%%Kokono2%%)
+
+This package includes: 
+
+* Your lockable Kokono tent: 300 x 384 cm
+* Two fully equipped beds
+* Two chairs and a table
+* A power outlet (220 volt – EU outlet) per person 
+* Interior lighting
+* A mirror
+* A locker (35x28x50cm) at the Montagoe lobby
+* Parking
+
+####**Cabana 2P**
+![] (%%Cabana1%%)
+![] (%%Cabana2%%)
+This package includes: 
+
+* Your lockable Cabana accommodation: 290 x 225 cm
+* Two fully equipped beds
+* Two chairs
+* A power outlet (220 volt – EU outlet) per person 
+* Interior lighting
+* A Mirror 
+* Parking
+
+####**Ensuite 2P**
+![] (%%Ensuite1%%)
+![] (%%Ensuite2%%)
+This package includes: 
+
+* Your lockable Ensuite accommodation: 300 x 450 cm
+* Personal shower and toilet inside the Ensuite
+* A fully equipped bed
+* Air conditioning
+* Two chairs
+* A power outlet (220 volt – EU outlet)
+* Interior lighting
+* Clothing rack
+* Parking
