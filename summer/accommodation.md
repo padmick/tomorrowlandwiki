@@ -1,5 +1,7 @@
 #**Magnificent Greens**
 
+This well-known formulas grants you access to the magnificent greens campsite where you can pick your own spot to pitch your tent. Bring your own camping gear or order a tent package on top to enjoy your stay at dreamville.
+
 ![](%%Magnificent-Greens%%)
 
 * Pick your own spot to pitch your tent.
@@ -93,4 +95,40 @@ All Camp2Camp Friends Packages include: 
 * Ten [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
 * Ten [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Camp2Camp Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+# **Friendship Garden**
+
+This well-known formulas grants you access to the magnificent greens campsite where you can pick your own spot to pitch your tent. Bring your own camping gear or order a tent package on top to enjoy your stay at dreamville.
+
+![] (%%Friendship-Garden%%)
+
+#### **Regular Friendship Garden**
+
+This package includes: 
+
+* Your private Friendship Garden area: 10x10m 
+* One Tomorrowland shelter per group
+
+All Friendship Garden Packages include: 
+
+* Ten [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Ten [Tomorrowland Full Madness our Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Friendship Garden Area 
+* Access to the [Gathering ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+#### **Spectacular Friendship Garden**
+
+This package includes: 
+
+* Your private Friendship Garden area + 30% extra: 13x13m 
+* One Tomorrowland shelter per group
+* One S locker to share (24x28x50cm)
+* Ten DreamVille chairs
+
+All Friendship Garden Packages include: 
+
+* Ten[ DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Ten [Tomorrowland Full Madness our Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Friendship Garden Area 
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
