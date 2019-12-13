@@ -7,7 +7,7 @@ This well-known formulas grants you access to the magnificent greens campsite wh
 * Pick your own spot to pitch your tent.
 * Bring your own camping gear or rent camping equipment via a CAMP2CAMP voucher at the voucher sale, pick up your equipment on arrival and find your own spot at the Magnificent Greens.
 
-All Magnificent Greens Packages include: 
+**All Magnificent Greens Packages include:**
 
 * Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
 * Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
