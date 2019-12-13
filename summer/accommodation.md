@@ -28,3 +28,20 @@ All Magnificent Greens 1P Tent Packages include: 
 * One [Tomorrowland Full Madness or Full Madness Comfort Pass](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Magnificent Greens Area 
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+&#x200B;
+
+####**Magnificent Greens 2P Tent Packages**
+
+* A limited edition Tomorrowland tent: 210 x 260 cm 
+* A double air mattress
+* Two sleeping bags for one person
+
+Pick up your tent and backpacks with air mattresses and sleeping bags at one of DreamVille entrances and find your own spot at the Magnificent Greens.
+
+All Magnificent Greens 2P Tent Packages include: 
+
+* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Magnificent Greens Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
