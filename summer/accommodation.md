@@ -14,7 +14,7 @@ All Magnificent Greens Packages include: 
 
 &#x200B;
 
-##**Magnificent Green 1 Person Tent**
+####**Magnificent Green 1 Person Tent**
 
 * A limited edition Tomorrowland tent: 210 x 260 cm 
 * An air mattress for one person
