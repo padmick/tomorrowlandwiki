@@ -11,7 +11,7 @@ All Magnificent Greens Packages include: 
 * One [Tomorrowland Full Madness or Full Madness Comfort Pass](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Magnificent Greens Area 
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
+&#x200B;
 ###Magnificent Green 1 Person Tent
 
 A limited edition Tomorrowland tent: 210 x 260 cm 
