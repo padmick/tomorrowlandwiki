@@ -56,7 +56,9 @@ By choosing for a Camp2Camp rental package, you choose to support this project a
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 ####**Camp2Camp 2 Person**
+
 ![] (%%Camp2Camp%%)
+
 This package includes: 
 
 * A Camp2Camp Pre Pitched tent for two persons
