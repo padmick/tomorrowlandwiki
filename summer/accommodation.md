@@ -49,7 +49,6 @@ All Magnificent Greens 2P Tent Packages include: 
 &#x200B;
 
 # **Camp2Camp**
-![] (%%Camp2Camp%%)
 
 Camp2camp is about facilitating your camping experience in an ecologically and socially responsible way. You won’t have to bring any camping gear yourself. It will all be ready and pre-pitched for you. By choosing camp2camp, you’ll contribute to a social cause without any extra effort.
 
@@ -59,12 +58,15 @@ Every festival season tons and tons of camping gear go to waste on festival camp
 
 By choosing for a Camp2Camp rental package, you choose to support this project and help create a better future for your fellow people and our planet.
 
+####**Camp2Camp 2 Person**
+![] (%%Camp2Camp%%)
 This package includes: 
 
 * A Camp2Camp Pre Pitched tent for two persons
 * A Camp2Camp double air mattress
 * Two Camp2Camp sleeping bags for one person
 * Two Camp2Camp chairs 
+**Note A deposit is paid when collecting this package which is fully refundable if equipment is left behind in good condition**
 
 All Camp2Camp Pre Pitched Packages include: 
 
