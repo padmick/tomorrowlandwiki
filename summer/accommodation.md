@@ -117,6 +117,7 @@ Would you like to spend your nights in the atmosphere of dreamville but you don�
 * Four [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Easy Tent Area 
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
 ####**Easy Tent 2P**
 
 ![] (%%ET2ppl%%)
