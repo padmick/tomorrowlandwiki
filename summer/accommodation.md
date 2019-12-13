@@ -58,6 +58,8 @@ Every festival season tons and tons of camping gear go to waste on festival camp
 
 By choosing for a Camp2Camp rental package, you choose to support this project and help create a better future for your fellow people and our planet.
 
+**Note A deposit is paid when collecting Camp2Camp packages which is fully refundable if equipment is left behind in good condition**
+
 ####**Camp2Camp 2 Person**
 ![] (%%Camp2Camp%%)
 This package includes: 
@@ -66,11 +68,29 @@ This package includes: 
 * A Camp2Camp double air mattress
 * Two Camp2Camp sleeping bags for one person
 * Two Camp2Camp chairs 
-**Note A deposit is paid when collecting this package which is fully refundable if equipment is left behind in good condition**
 
 All Camp2Camp Pre Pitched Packages include: 
 
 * Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
 * Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Camp2Camp Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
+####**Camp2Camp 10 Person**
+![] (%%Camp2Camp1ppl%%)
+
+This package includes: 
+
+* Five Camp2Camp Pre Pitched tents for two persons
+* A Camp2Camp double air mattress per tent
+* Two Camp2Camp sleeping bags for one person per tent
+* Ten Camp2Camp chairs
+* One Camp2Camp shelter to share
+* A private Camp2Camp area
+
+All Camp2Camp Friends Packages include: 
+
+* Ten [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Ten [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Camp2Camp Area 
 * Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
