@@ -1,3 +1,4 @@
+**If you are viewing this on mobile Images will not display**
 #**Magnificent Greens**
 
 This well-known formulas grants you access to the magnificent greens campsite where you can pick your own spot to pitch your tent. Bring your own camping gear or order a tent package on top to enjoy your stay at dreamville.
