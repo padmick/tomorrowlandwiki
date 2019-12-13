@@ -273,6 +273,7 @@ This package includes: 
 ####**Cabana 2P**
 ![] (%%Cabana1%%)
 ![] (%%Cabana2%%)
+
 This package includes: 
 
 * Your lockable Cabana accommodation: 290 x 225 cm
@@ -286,6 +287,7 @@ This package includes: 
 ####**Ensuite 2P**
 ![] (%%Ensuite1%%)
 ![] (%%Ensuite2%%)
+
 This package includes: 
 
 * Your lockable Ensuite accommodation: 300 x 450 cm
