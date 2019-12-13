@@ -1,6 +1,7 @@
 **Magnificent Greens**
 
-url(%%Magnificent-Greens%%)
+
+#header { background: url(%%Magnificent-Greens%%); }   
 
 * Pick your own spot to pitch your tent.
 * Bring your own camping gear or rent camping equipment via a CAMP2CAMP voucher at the voucher sale, pick up your equipment on arrival and find your own spot at the Magnificent Greens.
