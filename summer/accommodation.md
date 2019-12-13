@@ -7,12 +7,12 @@ This well-known formulas grants you access to the magnificent greens campsite wh
 * Pick your own spot to pitch your tent.
 * Bring your own camping gear or rent camping equipment via a CAMP2CAMP voucher at the voucher sale, pick up your equipment on arrival and find your own spot at the Magnificent Greens.
 
-All Magnificent Greens Packages include: 
+All Magnificent Greens Packages include: 
 
-* One [DreamVille Pass](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* One [Tomorrowland Full Madness or Full Madness Comfort Pass](https://www.tomorrowland.com/en/festival/tickets)
+* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
 * Access to the Magnificent Greens Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 &#x200B;
 
@@ -24,13 +24,6 @@ All Magnificent Greens Packages include: 
 
 Pick up your tent and backpack with air mattress and sleeping bag at one of DreamVille entrances and find your own spot at the Magnificent Greens.
 
-All Magnificent Greens 1P Tent Packages include: 
-
-* One [DreamVille Pass](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* One [Tomorrowland Full Madness or Full Madness Comfort Pass](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Magnificent Greens Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
 &#x200B;
 
 ####**Magnificent Greens 2P Tent Packages**
@@ -40,13 +33,6 @@ All Magnificent Greens 1P Tent Packages include: 
 * Two sleeping bags for one person
 
 Pick up your tent and backpacks with air mattresses and sleeping bags at one of DreamVille entrances and find your own spot at the Magnificent Greens.
-
-All Magnificent Greens 2P Tent Packages include: 
-
-* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Magnificent Greens Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 &#x200B;
 
@@ -62,6 +48,13 @@ By choosing for a Camp2Camp rental package, you choose to support this project a
 
 **Note A deposit is paid when collecting Camp2Camp packages which is fully refundable if equipment is left behind in good condition**
 
+**All Camp2Camp Friends Packages include:**
+
+* Ten [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Ten [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Camp2Camp Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
+
 ####**Camp2Camp 2 Person**
 ![] (%%Camp2Camp%%)
 This package includes: 
@@ -70,13 +63,6 @@ This package includes: 
 * A Camp2Camp double air mattress
 * Two Camp2Camp sleeping bags for one person
 * Two Camp2Camp chairs 
-
-All Camp2Camp Pre Pitched Packages include: 
-
-* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Camp2Camp Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 ####**Camp2Camp 10 Person**
 ![] (%%Camp2Camp1ppl%%)
@@ -90,16 +76,16 @@ This package includes: 
 * One Camp2Camp shelter to share
 * A private Camp2Camp area
 
-All Camp2Camp Friends Packages include: 
-
-* Ten [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Ten [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Camp2Camp Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
 # **Friendship Garden**
 
 This well-known formulas grants you access to the magnificent greens campsite where you can pick your own spot to pitch your tent. Bring your own camping gear or order a tent package on top to enjoy your stay at dreamville.
+
+**All Friendship Garden Packages include:** 
+
+* Ten[ DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Ten [Tomorrowland Full Madness our Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Friendship Garden Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 ![] (%%Friendship-Garden%%)
 
@@ -110,13 +96,6 @@ This package includes: 
 * Your private Friendship Garden area: 10x10m 
 * One Tomorrowland shelter per group
 
-All Friendship Garden Packages include: 
-
-* Ten [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Ten [Tomorrowland Full Madness our Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Friendship Garden Area 
-* Access to the [Gathering ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
 #### **Spectacular Friendship Garden**
 
 This package includes: 
@@ -126,17 +105,16 @@ This package includes: 
 * One S locker to share (24x28x50cm)
 * Ten DreamVille chairs
 
-All Friendship Garden Packages include: 
-
-* Ten[ DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Ten [Tomorrowland Full Madness our Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Friendship Garden Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
 #**Easy Tent**
 
 Would you like to spend your nights in the atmosphere of dreamville but you don’t want to carry a lot of luggage? Come to dreamville in a relaxed way without bringing your tent. A limited edition tomorrowland tent with inflatable air mattress and sleeping bag will be ready for you at your arrival. In your tent you will also find a night light, a mirror and a lock for your tent. After the festival you can take this tent and its items with you.
 
+**All Easy Tent Packages include:**
+
+* Four [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
+* Four [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
+* Access to the Easy Tent Area 
+* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 ####**Easy Tent 2P**
 
 ![] (%%ET2ppl%%)
@@ -149,13 +127,6 @@ This package includes: 
 * A night light
 * A mirror
 * A lock for your tent
-
-All Easy Tent 2P Packages include: 
-
-* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Two T[omorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Easy Tent Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 ####**Spectacular Easy Tent 2P**
 
@@ -173,13 +144,6 @@ This package includes:
 * Two DreamVille chairs
 * A locker (24x28x50cm)
 
-All Easy Tent 2P Packages include: 
-
-* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Two T[omorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Easy Tent Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
 ####**Supreme Easy Tent 2P**
 
 ![] (%%SupremeET2ppl1%%)
@@ -193,13 +157,6 @@ This package includes: 
 * Power outlet (220 volt – EU outlet) in your tent
 * Two relax chairs
 
-**All Easy Tent 2P Packages include:** 
-
-* Two [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Two [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Easy Tent Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
-
 ####**Easy Tent 4P**
 
 ![] (%%ET4ppl%%)
@@ -210,13 +167,6 @@ This package includes: 
 * Two night lights
 * Two mirrors
 * A lock for your tent
-
-All Easy Tent 4P Packages include: 
-
-* Four [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Four [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Easy Tent Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
 
 ####**Spectacular Easy Tent 4P**
 
@@ -229,10 +179,3 @@ All Easy Tent 4P Packages include: 
 * Two Power outlets (220 volt – EU outlet)  in your tent
 * Four DreamVille chairs
 * Two lockers (24x28x50cm)
-
-All Easy Tent 4P Packages include: 
-
-* Four [DreamVille Passes](https://www.tomorrowland.com/en/dreamville/discover-dreamville)
-* Four [Tomorrowland Full Madness or Full Madness Comfort Passes](https://www.tomorrowland.com/en/festival/tickets)
-* Access to the Easy Tent Area 
-* Access to the [Gathering](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering) and [Marketplace](https://www.tomorrowland.com/en/dreamville/discover-dreamville/marketplace)
