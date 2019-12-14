@@ -24,7 +24,7 @@ General access to Tomorrowland + access to the comfort (VIP) zone at the Mainst
 
 All ticket prices exclude the Treasure Case Fees - These additional fees vary based on your Geography as per the table below.  The fee is **per person.** For example if you take a 2P package, you pay the fee twice. 
 
-| **Post Address**                       | \**( PP €\)**      |
+| **Post Address**                       | \**( PP €**\)     |
 |------------------------------------|----------------|
 | Belgium                            | 12\.50         |
 | Europe                             | 19\.50         |
