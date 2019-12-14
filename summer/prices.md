@@ -6,7 +6,7 @@ A 2P package is the total cost for two people - not per person.
 
 Full explanation of the different Accommodations can be found [here](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
-##¢# Regular Tickets
+#### Regular Tickets
 
 General access to Tomorrowland
 
@@ -24,11 +24,11 @@ General access to Tomorrowland + access to the comfort (VIP) zone at the Mainst
 
 All ticket prices exclude the Treasure Case Fees - These additional fees vary based on your Geography as per the table below.  The fee is **per person.** For example if you take a 2P package, you pay the fee twice. 
 
-| \( PP €\)                          |
-|------------------------------------|
-| Treasure Case Fee Belgium          | 12\.50               |
-| Treasure Case Fee Europe           | 19\.50               |
-| Treasure Case Fee Worldwide        | 27\.00               |
+| Post Address                       | \( PP €\)      |
+|------------------------------------|----------------|
+| Belgium                            | 12\.50         |
+| Europe                             | 19\.50         |
+| Worldwide                          | 27\.00         |
 
 # Day Pass
 
