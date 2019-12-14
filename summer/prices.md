@@ -39,10 +39,11 @@ This ticket type does not give you access to DreamVille.
 The ticket price **always includes** payment and service fee.  
 The Treasure Case Fee is not included.
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Day                                | 105\.50        | 109\.00              |
-| Pleasure Day                       | 148\.50        | 170\.00              |
-| Comfort Day                        | 190\.00        | 200\.00              |
+| Type         | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|--------------|----------------|----------------------|
+| Day          | 105\.50        | 109\.00              |
+| Pleasure Day | 148\.50        | 170\.00              |
+| Comfort Day  | 190\.00        | 200\.00              |
 
 &#x200B;
 
