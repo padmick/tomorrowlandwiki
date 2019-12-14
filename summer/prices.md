@@ -1,93 +1,152 @@
-| Ticket Type                                                                                                                                                                                                                   | cost of package \(over dreamville\) | Cost no fees \(Euro\) | Cost \(Euro\) with shipping fee | Cost per person \(Euro\) | Cost per person \(Dollar\)  | Description of package                                                                                                                                |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------|---------------------------------|--------------------------|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Full Madness                                                                                                                                                                                                                                    | € 249\.00             | € 276\.00                       | € 276\.00                | $298\.08                    | General Access to Tomorrowland on Friday,Saturday and Sunday                                                                                         |                                                                                                                                                                                                          | € 293\.00                           | € 320\.00             | € 320\.00                       | $345\.60                 |
-| Full Madness Comfort                                                                                                                                                                                                                          | € 440\.00             | € 467\.00                       | € 467\.00                | $504\.36                    | Comfort: general access to the festival site \+ access to the comfort \(VIP\) zone at the Mainstage and 3 other stages \(excl\. parking and lockers\) |
-                                                                                                                                                                                                            | € 510\.00                           | € 537\.00             | € 537\.00                       | $579\.96                 |
-| Dreamville \(no tent\)                                                                                                                                                                                                        | € 72\.00                            | € 321\.00                       | € 348\.00                | € 348\.00                   | $375\.84                                                                                                                                              | "Access to DreamVille – 5 days, Access to Tomorrowland \(Regular or Comfort\) – 3 days                                                                                                                                                                                                                                                                                                                                                                   |
-| Access to The Gathering, Access to DreamVille Marketplace, Sanitary facilities You have to bring your own tent                                                                                                                |
- |
-| magnificent greens costs 72 pre\-sale and 83 worldwide                                                                                                                                                                        |
- |
-| Add 155 euro for comfort"                                                                                                                                                                                                     |
-| € 83\.00                                                                                                                                                                                                                                      | € 376\.00             | € 403\.00                       | € 403\.00                | $435\.24                    |
-| Mag green 1 person tent                                                                                                                                                                                                       | € 101\.00                          | € 422\.00                       | € 449\.00                | € 449\.00                   | $484\.92                                                                                                                                              | "A ‘DreamVille Magnificent Greens Tent 1P Package’ includes a 1 Persons Tent, an air mattress and a sleeping bag\.                                                                                                                                                                                                                                                                                                                                       |
-| Don’t forget to pick up your Tent bag and backpack at one of DreamVille entrances\.                                                                                                                                           |
- |
-| Add 155 euro for comfort ticket"                                                                                                                                                                                              |
-| € 101\.00                                                                                                                                                                                                                                        | € 477\.00             | € 504\.00                       | € 504\.00                | $544\.32                    |
-| Mag green 2 person tent                                                                                                                                                                                                       | € 153\.00                             | € 795\.00                       | € 822\.00                | € 411\.00                   | $443\.88                                                                                                                                              | "A ‘DreamVille Magnificent Greens Tent 2P Package’ includes a 2 Persons Tent, a double air mattress and 2 sleeping bags\.                                                                                                                                                                                                                                                                                                                                |
- |
-| Add 155 euro per person for comfort tickets"                                                                                                                                                                                  |
-| € 153\.00                                                                                                                                                                                                                                        | € 905\.00             | € 932\.00                       | € 466\.00                | $503\.28                    |
-| Camp2Camp 2 person                                                                                                                                                                                                            | € 84\.00                           | € 726\.00                       | € 753\.00                | € 376\.50                   | $406\.62                                                                                                                                              | You will be welcomed in the CAMP2CAMP Area, which offers separate sanitary facilities only for CAMP2CAMP visitors\. The CAMP2CAMP team and crew are at your service 24h/24h\.                                                                                                                                                                                                                                                                            |
-| € 84\.00                                                                                                                                                                                                                                         | € 836\.00             | € 863\.00                       | € 431\.50                | $466\.02                    |
-| 2 person easy tent                                                                                                                                                                                                            | € 421\.00                       | € 919\.00                       | € 946\.00                | € 473\.00                   | $510\.84                                                                                                                                              | "A limited edition Tomorrowland tent, A double air mattress, A sleeping bag per person, A night light and mirror, A lock for your tent, Separate sanitary facilities only for Easy Tent visitors                                                                                                                                                                                                                                                         |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 421\.00                                                                                                                                                                                                                                        | € 1,007\.00           | € 1,034\.00                     | € 517\.00                | $558\.36                    |
-| 2 person spectacular easy                                                                                                                                                                                                     | € 611\.00                            | € 1,109\.00                     | € 1,136\.00              | € 568\.00                   | $613\.44                                                                                                                                              | "A limited edition Tomorrowland tent, An air mattress per 2 persons, A sleeping bag per person, A night light and mirror, Lock for your tent, Separate sanitary facilities, exclusively for Easy Tent visitors                                                                                                                                                                                                                                           |
-| \+ Wooden flooring under your tent, Power outlet \(220 volt – EU outlet\)  in your tent,Cosy patio in front of your tent, A DreamVille relax chair per person, A locker per 2 people, Access to the VIP deck at The Gathering |
- |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 611\.00                                                                                                                                                                                                                                        | € 1,197\.00           | € 1,224\.00                     | € 612\.00                | $660\.96                    |
-| 2 person supreme easy                                                                                                                                                                                                         | € 825\.00                            | € 1,323\.00                     | € 1,350\.00              | € 675\.00                   | $729\.00                                                                                                                                              | "A custom made Tomorrowland tent                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Interior space:                                                                                                                                                                                                               |
-| An air mattress per person                                                                                                                                                                                                    |
-| A sleeping bag per person                                                                                                                                                                                                     |
-| Lock for your tent                                                                                                                                                                                                            |
-| \+ Power outlet \(220 volt – EU outlet\)  in your tent                                                                                                                                                                        |
-| \+ Cosy patio in front of your tent                                                                                                                                                                                           |
-| \+ A relax chair per person                                                                                                                                                                                                   |
-| \+ Access to the VIP deck at The Gathering                                                                                                                                                                                    |
- |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 825\.00                                                                                                                                                                                                                                        | € 1,411\.00           | € 1,438\.00                     | € 719\.00                | $776\.52                    |
-| 4 person easy tent                                                                                                                                                                                                            | € 822\.00                       | € 1,818\.00                     | € 1,845\.00              | € 461\.25                   | $498\.15                                                                                                                                              | "A limited edition Tomorrowland tent, An air mattress per 2 persons, sleeping bag per person, A night light and mirror per 2 persons, A lock for your tent, Separate sanitary facilities only for Easy Tent visitors                                                                                                                                                                                                                                     |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 822\.00                                                                                                                                                                                                                                        | € 1,994\.00           | € 2,021\.00                     | € 505\.25                | $545\.67                    |
-| 4 person spectacular easy                                                                                                                                                                                                     | € 1,169\.00                    | € 2,165\.00                     | € 2,192\.00              | € 548\.00                   | $591\.84                                                                                                                                              | "A limited edition Tomorrowland tent, An air mattress per 2 persons                                                                                                                                                                                                                                                                                                                                                                                      |
-| , sleeping bag per person, A night light and mirror per 2 persons, Lock for your tent                                                                                                                                         |
-| \+ Wooden flooring under your tent, Power outlet \(220 volt – EU outlet\)  in your tent, Cosy patio in front of your tent, A DreamVille relax chair per person,A locker per 2 people, Access to the VIP deck at The Gathering |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
- |
-| "                                                                                                                                                                                                                             |
-| € 1,169\.00                                                                                                                                                                                                                                      | € 2,341\.00           | € 2,368\.00                     | € 592\.00                | $639\.36                    |
-| 2 person relax rooms                                                                                                                                                                                                          | € 1,082\.00                         | € 1,580\.00                     | € 1,607\.00              | € 803\.50                   | $867\.78                                                                                                                                              | "Access to your own lockable Relax Room, 2 fully equipped beds, 2 DreamVille relax chairs, A Personal power outlet \(220 volt – EU outlet\), Interior lighting & clothing rack, Separate sanitary facilities only for Relax Room visitors, 24h reception staff, Access to The Montagoe \- Relax Room chill out zone, Parking                                                                                                                             |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 1,082\.00                                                                                                                                                                                                                                      | € 1,668\.00           | € 1,695\.00                     | € 847\.50                | $915\.30                    |
-| 2 person dream lodge                                                                                                                                                                                                          | € 1,276\.00                       | € 1,774\.00                     | € 1,801\.00              | € 900\.50                   | $972\.54                                                                                                                                              | "Access to your own lockable DreamLodge tent, 2 fully equipped beds, 2 DreamVille relax chairs and a table, An USB power outlet, interior lighting and a locker, 24h reception staff, Separate sanitary facilities only for DreamLodge visitors, Access to The Montagoe \- DreamLodge Chill out zone, Parking                                                                                                                                            |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 1,276\.00                                                                                                                                                                                                                                      | € 1,862\.00           | € 1,889\.00                     | € 944\.50                | $1,020\.06                  |
-| 2 person spectacular lodge                                                                                                                                                                                                    | € 1,517\.00                        | € 2,015\.00                     | € 2,042\.00              | € 1,021\.00                 | $1,102\.68                                                                                                                                            | "Access to your own lockable DreamLodge tent, 2 fully equipped beds, 2 DreamVille relax chairs and a table, An USB power outlet, interior lighting and a locker, 24h reception staff, Separate sanitary facilities only for DreamLodge visitors, Access to The Montagoe \- DreamLodge Chill out zone, Parking                                                                                                                                            |
-| \+ 50% extra interior space, Nice living room with comfortable couch, a little fan and extra locker,  Access to the VIP deck at The Gathering                                                                                 |
- |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 1,517\.00                                                                                                                                                                                                                                      | € 2,103\.00           | € 2,130\.00                     | € 1,065\.00              | $1,150\.20                  |
-| 2 Kokono                                                                                                                                                                                                                      | € 1,357\.00                      | € 1,855\.00                     | € 1,882\.00              | € 941\.00                   | $1,016\.28                                                                                                                                            | "Access to your own lockable Kokono, Raised wooden deck with canvas roof, Bed\(s\) with foam mattress, Duvet\(s\) & pillows, Cotten bed linen, 2 bath towels, small mirror, Battery operated lanterns, Jute doormat, A power outlet \(220 volt – EU outlet\), interior lighting and a locker, 24h reception staff, Separate sanitary facilities only for DreamVille Kokono visitors, Access to The Montagoe \- DreamVille Kokono Chill out zone, Parking |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 1,357\.00                                                                                                                                                                                                                                      | € 1,943\.00           | € 1,970\.00                     | € 985\.00                | $1,063\.80                  |
-| 2 person cabana                                                                                                                                                                                                               | € 1,439\.00                         | € 1,937\.00                     | € 1,964\.00              | € 982\.00                   | $1,060\.56                                                                                                                                            | "Access to your own lockable Cabana, 2 fully equipped beds, A power outlet \(220 volt – EU outlet\), interior lighting and a locker, Cosy outdoor chill out furniture, 24h reception staff, Separate sanitary facilities only for DreamVille Cabana visitors, Access to The Montagoe \- DreamVille Cabana Chill out zone, Parking                                                                                                                        |
-| Add 155 euro per person for comfort tickets                                                                                                                                                                                   |
-| "                                                                                                                                                                                                                             |
-| € 1,439\.00                                                                                                                                                                                                                                      | € 2,025\.00           | € 2,052\.00                     | € 1,026\.00              | $1,108\.08                  |
-| Friendship Garden                                                                                                                                                                                                             | € 1,140\.00                          | € 3,630\.00                     | € 3,657\.00              | € 365\.70                   | $394\.96                                                                                                                                              | "Your private friendship Garden area, One Tomorrowland shelter per group, Separate sanitary facilities for Friendship Garden visitors                                                                                                                                                                                                                                                                                                                    |
-| "                                                                                                                                                                                                                             |
-| € 1,248\.00                                                                                                                                                                                                                                     | € 4,178\.00           | € 4,205\.00                     | € 420\.50                | $454\.14                    |
-| Spectactular Friendship Garden                                                                                                                                                                                                | € 1,882\.00                     | € 4,372\.00                     | € 4,399\.00              | € 439\.90                   | $475\.09                                                                                                                                              | "Your private Friendship Garden area, One Tomorrowland shelter per group, Separate sanitary facilities for Friendship Garden visitors                                                                                                                                                                                                                                                                                                                    |
-| \+ 30% extra space, One locker to share, 10 DreamVille chairs to relax, Access to the VIP deck at The Gathering                                                                                                               |
-| "                                                                                                                                                                                                                             |
-| € 1,992\.00                                                                                                                                                                                                                                      | € 4,922\.00           | € 4,949\.00                     | € 494\.90                | $534\.49                    |
-| Camp2Camp Friends Package                                                                                                                                                                                                     | € 1,667\.00                        | € 4,157\.00                     | € 4,184\.00              | € 418\.40                   | $451\.87                                                                                                                                              | "A CAMP2CAMP Friends Package includes:                                                                                                                                                                                                                                                                                                                                                                                                                   |
- |
-| Your private Friends Area                                                                                                                                                                                                     |
-| One CAMP2CAMP shelter per group                                                                                                                                                                                               |
-| 5 CAMP2CAMP tents                                                                                                                                                                                                             |
-| Separate sanitary facilities for CAMP2CAMP visitors"                                                                                                                                                                          |
-| € 1,777\.00                                                                                                                                                                                                                                      | € 4,707\.00           | € 4,734\.00                     | € 473\.40                | $511\.27                    |
+# General Ticket Information
+
+All prices are the **total price** of the package. 
+
+A 2P package is the total cost for two people - not per person.
+
+Full explanation of the different Accommodations can be found [here](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+##¢# Regular Tickets
+
+General access to Tomorrowland
+
+#### Pleasure Pass
+
+​General access to Tomorrowland + access to 3 different comfort zones.
+
+**Attention!** No access to the comfort zone at the Mainstage.
+
+#### Comfort Pass
+
+General access to Tomorrowland + access to the comfort (VIP) zone at the Mainstage and 4 other stages
+
+# Treasure Case Fees
+
+All ticket prices exclude the Treasure Case Fees - These additional fees vary based on your Geography as per the table below.  The fee is **per person.** For example if you take a 2P package, you pay the fee twice. 
+
+| \( PP €\)                          |
+|------------------------------------|
+| Treasure Case Fee Belgium          | 12\.50               |
+| Treasure Case Fee Europe           | 19\.50               |
+| Treasure Case Fee Worldwide        | 27\.00               |
+
+# Day Pass
+
+A day pass gives you access to Tomorrowland on Friday, Saturday or Sunday. 
+
+This ticket type does not give you access to DreamVille.
+
+The ticket price **always includes** payment and service fee.  
+The Treasure Case Fee is not included.
+
+&#x200B;
+
+# Full Madness 
+
+A Full Madness Pass gives you access to Tomorrowland on Friday, Saturday and Sunday. 
+
+This ticket type does not give you access to DreamVille.
+
+The ticket price **always includes** payment and service fee.  
+The Treasure Case Fee is not included.
+
+# Magnificent Greens
+
+**All Magnificent Greens Packages include per person:** 
+
+* One DreamVille Pass
+* One Tomorrowland Full Madness or Full Madness Comfort Pass
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+
+The ticket price **always includes** payment and service fee. The Treasure Case Fee is not included.
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+# Camp2Camp
+
+**Please note that there will be a deposit of €132 due before getting access to your Camp2Camp package.** 
+
+**All Camp2Camp Packages include per person:** 
+
+* One DreamVille Pass
+* One Tomorrowland Full Madness or Full Madness Comfort Pass
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+
+The ticket price **always includes** payment and service fee. The Treasure Case Fee is not included.
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+# Camp2Camp Friends 10P
+
+**Please note that there will be a deposit of €635 due before getting access to your Camp2Camp package.** 
+
+**All Camp2Camp Packages include per person:** 
+
+* One DreamVille Pass
+* One Tomorrowland Full Madness
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+
+The ticket price **always includes** payment and service fee. The Treasure Case Fee is not included.
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+# Friendship Garden 10P
+
+**All Friendship Garden Packages include per person:** 
+
+* One DreamVille Pass
+* One Tomorrowland Full Madness
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+* Additional Benefits for Spectacular Friendship Garden (See Accommodation Wiki)
+
+The ticket price **always includes** payment and service fee. The Treasure Case Fee is not included.
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+# Easy Tent
+
+**All Easy Tent Packages include per person:** 
+
+* One DreamVille Pass
+* One Tomorrowland Full Madness or Full Madness Comfort Pass
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+* Additional Benefits for Supreme & Spectacular Easy Tent (See Accommodation Wiki)
+
+The ticket price **always includes** payment and service fee. The Treasure Case Fee is not included.
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+# Montagoe
+
+**All Montagoe Packages include per person:** 
+
+* One DreamVille Pass
+* One Tomorrowland Full Madness or Full Madness Comfort Pass
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+* Access to the Montagoe 
+
+The ticket price **always includes** payment and service fee. The Treasure Case Fee is not included.
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+&#x200B;
+
+# Mousai
+
+**All Mousai Packages include 10 people:** 
+
+* 10 DreamVille Pass
+* 10 Tomorrowland Full Madness or Full Madness Comfort Pass
+* Access to the Magnificent Greens Area 
+* Access to the Gathering[ ](https://www.tomorrowland.com/en/dreamville/discover-dreamville/the-gathering)and Marketplace
+* Access to the Mousai
+
+For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
+
+Starting from €50,000 - To book e-mail Mansion@dreamville.be
