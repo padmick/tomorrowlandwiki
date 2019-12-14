@@ -58,7 +58,7 @@ For your accommodation you can choose between:
 - Concept Hotel
 - Depending on your arrival and departure date: a combination of DreamVille and a Hotel
 
-## **FLIGHT INFORMATION**
+## **Flight Information**
 
 **Regular Flights**
 
@@ -78,7 +78,7 @@ The different departure cities will be available in the Price Simulator soon.
 
  
 
-## **GLOBAL JOURNEY ACTIVITIES** 
+## **Global Journey Activities** 
 
 **ARRIVAL ON WEDNESDAY**
 
@@ -99,6 +99,7 @@ Travellers who return home on Tuesday are offered a Detox Day. On Monday you can
 Travel by bus from one of the departing cities where a dedicated Global Journey host welcomes you and guides you to the gates of Tomorrowland. 
 
 **BUS PACKAGES INCLUDE:**
+
 - Return bus journey to DreamVille
 - DreamVille accommodation
 - Tomorrowland Ticket - Full Madness Pass (Regular or Comfort)
