@@ -56,9 +56,11 @@ This ticket type does not give you access to DreamVille.
 The ticket price **always includes** payment and service fee.  
 The Treasure Case Fee is not included.
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Full Madness                       | 249\.00        | 295\.00              |
-| Full Madness Comfort               | 440\.00        | 510\.00              |
+| Type                  | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|-----------------------|----------------|----------------------|
+| Full Madness          | 249\.00        | 295\.00              |
+| Full Madness Comfort  | 440\.00        | 510\.00              |
+
 
 # Magnificent Greens
 
@@ -74,6 +76,7 @@ The ticket price **always includes** payment and service fee. The Treasure Case
 For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
 | Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|------------------------------------|----------------|----------------------|
 | Magnificent Greens                 | 324\.00        | 380\.00              |
 | Magnificent Greens Comfort         | 515\.00        | 595\.00              |
 | Magnificent Greens 1P Tent         | 426\.00        | 482\.00              |
@@ -96,9 +99,10 @@ The ticket price **always includes** payment and service fee. The Treasure Case
 
 For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Camp2Camp Pre Pitched 2P           | 838\.00        | 950\.00              |
-| Camp2Camp Pre Pitched 2P Comfort   | 1,220\.00      | 1,380\.00            |
+| Type                             | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|----------------------------------|----------------|----------------------|
+| Camp2Camp Pre Pitched 2P         | 838\.00        | 950\.00              |
+| Camp2Camp Pre Pitched 2P Comfort | 1,220\.00      | 1,380\.00            |
 
 # Camp2Camp Friends 10P
 
@@ -115,8 +119,10 @@ The ticket price **always includes** payment and service fee. The Treasure Case
 
 For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Camp2Camp 10P                      | 4,440\.00      | 4,900\.00            |
+| Type          | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|---------------|----------------|----------------------|
+| Camp2Camp 10P | 4,440\.00      | 4,900\.00            |
+
 
 # Friendship Garden 10P
 
@@ -132,9 +138,10 @@ The ticket price **always includes** payment and service fee. The Treasure Case
 
 For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Friendship Garden 10P              | 3,630\.00      | 4,198\.00            |
-| Spectacular Friendship Garden      | 4,372\.00      | 4,942\.00            |
+| Type                          | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|-------------------------------|----------------|----------------------|
+| Friendship Garden 10P         | 3,630\.00      | 4,198\.00            |
+| Spectacular Friendship Garden | 4,372\.00      | 4,942\.00            |
 
 # Easy Tent
 
@@ -150,17 +157,18 @@ The ticket price **always includes** payment and service fee. The Treasure Case
 
 For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Easy Tent 2P                       | 919\.00        | 1,011\.00            |
-| East Tent 2P Comfort               | 1,301\.00      | 1,441\.00            |
-| Spectacular Easy Tent 2P           | 1,109\.00      | 1,201\.00            |
-| Spectacular Easy Tent 2P Comfort   | 1,491\.00      | 1,631\.00            |
-| Supreme Easy Tent 2P               | 1,323\.00      | 1,415\.00            |
-| Supreme Easy Tent 2P Comfort       | 1,705\.00      | 1,845\.00            |
-| Easy Tent 4P                       | 1,818\.00      | 2,002\.00            |
-| Easy Tent 4P Comfort               | 2,582\.00      | 2,862\.00            |
-| Spectacular Easy Tent 4P           | 2,165\.00      | 2,349\.00            |
-| Spectacular Easy Tent 4P Comfort   | 2,929\.00      | 3,209\.00            |
+| Type                             | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|----------------------------------|----------------|----------------------|
+| Easy Tent 2P                     | 919\.00        | 1,011\.00            |
+| East Tent 2P Comfort             | 1,301\.00      | 1,441\.00            |
+| Spectacular Easy Tent 2P         | 1,109\.00      | 1,201\.00            |
+| Spectacular Easy Tent 2P Comfort | 1,491\.00      | 1,631\.00            |
+| Supreme Easy Tent 2P             | 1,323\.00      | 1,415\.00            |
+| Supreme Easy Tent 2P Comfort     | 1,705\.00      | 1,845\.00            |
+| Easy Tent 4P                     | 1,818\.00      | 2,002\.00            |
+| Easy Tent 4P Comfort             | 2,582\.00      | 2,862\.00            |
+| Spectacular Easy Tent 4P         | 2,165\.00      | 2,349\.00            |
+| Spectacular Easy Tent 4P Comfort | 2,929\.00      | 3,209\.00            |
 
 # Montagoe
 
@@ -176,21 +184,22 @@ The ticket price **always includes** payment and service fee. The Treasure Case
 
 For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
-| Type                               | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
-| Relax Room 2P                      | 1,612\.00      | 1,704\.00            |
-| Relax Room 2P Comfort              | 1,994\.00      | 2,134\.00            |
-| Spectacular Relax Room 2P          | 2,086\.00      | 2,178\.00            |
-| Spectacular Relax Room 2P Comfort  | 2,468\.00      | 2,608\.00            |
-| Dreamlodge 2P                      | 1,812\.00      | 1,904\.00            |
-| Dreamlodge 2P Comfort              | 2,194\.00      | 2,334\.00            |
-| Spectacular Dreamlodge 2P          | 2,060\.00      | 2,152\.00            |
-| Spectacular Dreamlodge 2P Comfort  | 2,442\.00      | 2,582\.00            |
-| Kokono 2P                          | 1,896\.00      | 1,988\.00            |
-| Kokono 2P Comfort                  | 2,278\.00      | 2,418\.00            |
-| Cavaba 2P                          | 1,980\.00      | 2,072\.00            |
-| Cabana 2P Comfort                  | 2,362\.00      | 2,502\.00            |
-| Ensuite 2P                         | 4,048\.00      | 4,140\.00            |
-| Ensuite 2P Comfort                 | 4,430\.00      | 4,570\.00            |
+| Type                              | Pre\-Sale\(€\) | Worldwide Sale \(€\) |
+|-----------------------------------|----------------|----------------------|
+| Relax Room 2P                     | 1,612\.00      | 1,704\.00            |
+| Relax Room 2P Comfort             | 1,994\.00      | 2,134\.00            |
+| Spectacular Relax Room 2P         | 2,086\.00      | 2,178\.00            |
+| Spectacular Relax Room 2P Comfort | 2,468\.00      | 2,608\.00            |
+| Dreamlodge 2P                     | 1,812\.00      | 1,904\.00            |
+| Dreamlodge 2P Comfort             | 2,194\.00      | 2,334\.00            |
+| Spectacular Dreamlodge 2P         | 2,060\.00      | 2,152\.00            |
+| Spectacular Dreamlodge 2P Comfort | 2,442\.00      | 2,582\.00            |
+| Kokono 2P                         | 1,896\.00      | 1,988\.00            |
+| Kokono 2P Comfort                 | 2,278\.00      | 2,418\.00            |
+| Cavaba 2P                         | 1,980\.00      | 2,072\.00            |
+| Cabana 2P Comfort                 | 2,362\.00      | 2,502\.00            |
+| Ensuite 2P                        | 4,048\.00      | 4,140\.00            |
+| Ensuite 2P Comfort                | 4,430\.00      | 4,570\.00            |
 
 &#x200B;
 
