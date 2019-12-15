@@ -1,1 +1,1 @@
-test
+Official Travel Partners for 2020 will be updated as they become available
