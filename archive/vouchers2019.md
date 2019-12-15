@@ -59,7 +59,7 @@ Shuttle towns were: Aalst, Arendonk, Brussels, Eindhoven, Geel, Genk, Gent, Hass
 
 **Airport Shuttles to Dreamville**
 
-There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. A Return shuttle trip cost [X]
+There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. €19 for a single trip (€38 return)
 
 # Dreamville Extras
 
@@ -77,7 +77,7 @@ Menu (Changed daily) but a mixture of: Pancakes, Fried egg with bacon, Vegetable
 Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional Items with cost below)
 
 
-**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - Only available for Montagoe guests. A Buffet were you are allowed 1 walk through the buffet but were permitted to take two plates.
+**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - 07:30 - 12:30 - Only available for Montagoe guests. A Buffet were you are allowed 1 walk through the buffet but were permitted to take two plates.
 
 You could also buy this on the day (Same price) if you did not pre-book a voucher (warning - this might not be the same for future years)
 
@@ -105,11 +105,23 @@ Additional items:
 Note - There is a deposit that is refundable when the item is returned.
 
 
+| Item                              | Deposit (Refundable) (€) | Rental Cost (€) | Total Price to Pay (€) |
+|-----------------------------------|--------------------------|-----------------|------------------------|
+| Sleeping Bag                      | 15.00                    | 15.00           | 30.00                  |
+| Single Air Mattress               | 10.00                    | 10.00           | 20.00                  |
+| Double Air Mattress               | 15.00                    | 15.00           | 30.00                  |
+| Camping Chair                     | 15.00                    | 15.00           | 30.00                  |
+| Tent 2P                           | 25.00                    | 25.00           | 50.00                  |
+| 10 Person Pack                    | 375.00                   | 340.00          | 715.00                 |
+| (10x Chair, Airbed, Sleeping Bag) | .                        | .               | .                      |
+| 2 Person Pack                     | 75.00                    | 69.00           | 144.00                 |
+| (2x Chair, Airbed, Sleeping Bag)  | .                        | .               | .                      |
 
 
 
+**COLD BEER PICK-UP** - €24
 
-**COLD BEER PICK-UP** A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time was 1600.
+A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time was 1600.
 
 # Food Experiences
 
