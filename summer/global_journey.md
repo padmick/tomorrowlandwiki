@@ -2,7 +2,7 @@
 
 Global journey is a way to add unique experiences to your tomorrowland journey. As well as receiving a tomorrowland ticket you can book transport and unique experiences such as:
 
-- Train packages
+- [Train packages](#**Train packages**)
 - Flight packages
 - Hotel Packages
 - Bus packages
@@ -11,10 +11,10 @@ Global journey is a way to add unique experiences to your tomorrowland journey. 
 - Discover Belgium
 - Surprise package
 
-# **Train packages**
+# **Train Packages Overview**
 Global Journey offers you Train Packages with trains departing from our neighboring countries. Travel together with the People of Tomorrow to unite at Tomorrowland.
 
-**TRAIN PACKAGES INCLUDE:**
+## **Train Packages Include:**
 
 - Return train to Antwerpen-Centraal or Brussels-Midi
 - Accommodation (DreamVille or Hostel or Hotel)
@@ -24,7 +24,8 @@ Global Journey offers you Train Packages with trains departing from our neighbor
 - All necessary transfers
 - Invited Brussels or the Gathering
 
-**ACCOMMODATION**
+## **Train Package Accommodation**
+
 For your accommodation you can choose between:
 
 - [DreamVille](https://www.tomorrowland.com/en/dreamville/accommodations)
@@ -33,10 +34,10 @@ For your accommodation you can choose between:
 - Tomorrowland Theme Hotel
 - Concept Hotel
 
-# **Flight Packages**
+# **Flight Packages Overview**
 Global Journey offers you Flight Packages with flights departing from all over the world. Fly together with the People of Tomorrow to unite at Tomorrowland.
 
-**FLIGHT PACKAGES INCLUDE:**
+## **Flight Packages Include:**
 - Return flight to Brussels Airport
 - Accommodation (DreamVille and/or Hostel or Hotel)
 - Tomorrowland Ticket - Full Madness Pass (Regular or Comfort)
@@ -47,7 +48,7 @@ Global Journey offers you Flight Packages with flights departing from all over t
 - Detox Day (for those who depart on Tuesday)
  
 
-**ACCOMMODATION**
+**Flight Packages Accommodation**
 
 For your accommodation you can choose between:
 
@@ -60,11 +61,11 @@ For your accommodation you can choose between:
 
 ## **Flight Information**
 
-**Regular Flights**
+### **Regular Flights**
 
 Global Journey tries to group as many visitors as possible so you travel together with the People of Tomorrow.
 
-**Special Tomorrowland Party Flight**
+### **Special Tomorrowland Party Flight**
 
 These are flights with a special Tomorrowland act on board. Magic in the sky...
 
@@ -78,17 +79,17 @@ The different departure cities will be available in the Price Simulator soon.
 
  
 
-## **Global Journey Activities** 
+## **Global Journey Activities For Flight Packages** 
 
-**ARRIVAL ON WEDNESDAY**
+### **ARRIVAL ON WEDNESDAY**
 
 Travellers who arrive on Wednesday are offered a Belgian Journey. On Thursday you discover the beauty of a Belgian city and some specialties of Belgium together with thousands of other People of Tomorrow.
 
-**ARRIVAL ON THURSDAY**
+### **ARRIVAL ON THURSDAY**
 
 Travellers who arrive on Thursday and are staying in a hostel or hotel can go to [INVITED](https://www.tomorrowland.com/en/global-journey/experiences/invited-brussels) Brussels. An official Global Journey pre-party on a unique location in Brussels on Thursday evening. Feel the magic and meet new friends.
 
-**DEPARTURE ON TUESDAY**
+### **DEPARTURE ON TUESDAY**
 
 Travellers who return home on Tuesday are offered a Detox Day. On Monday you can recover from the Madness at a unique location with some relaxing and healthy activities.
 
@@ -248,3 +249,41 @@ During the Discover Europe journey, you can choose up to 5 European cities.
 - Paris
 - Prague
 - Brussels
+
+**Accommodation**
+
+For your accommodation you can choose between:
+
+- Hostel: a single bed in a comfortable dorm for 4 to 6 people with en-suite bathroom. All selected hostels have a nice design, a young, dynamic vibe and are centrally located.
+
+- Hotel: single, double or twin room. You stay in a beautiful design 4-star hotel located in a lively neighbourhood within 15 minutes from the city center or a comfortable 3-star hotel, located in the heart of the city.
+
+During Tomorrowland you can either stay in:
+ - a hostel or hotel in Brussels
+- in DreamVille (the Tomorrowland camping).
+
+**Transport Info**
+
+Transport tickets are included in your journey between your first city and your last city:
+
+- Amsterdam - Paris: Thalys train ticket
+- Paris - Amsterdam: Thalys train ticket
+- Amsterdam - Brussels: Bus ticket
+- All other destinations: Flight ticket
+> Do mind: The transport from and to your home country is **not** included in the package.
+
+**Transfer Info**
+All transfers after your check-in until you check out are included in your package:
+
+- To and from accommodations, airports and train stations
+- To and from DreamVille and Tomorrowland
+- Necessary transfers during the Belgian Journey (16/07) and Detox Day (20/07)
+> Do mind: The Discover Europe experience starts in the accommodation of your first city of choice and ends in the accommodation of your last city of choice. This means **you need to book your own transport to your first accommodation and from your last accommodation back home.**
+ 
+**ACTIVITIES**
+
+- Discover Europe Welcome drink on the first night
+- Discover Europe Surprise activity in every city
+- Possibility to book upfront optional activities in every city
+   - Belgian Journey: Discover a Belgian city and unite with the People of Tomorrow. (16/07) 
+   - Detox Day (for those who travel until July 24th): A day to relax after Tomorrowland. (20/07)
