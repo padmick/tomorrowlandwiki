@@ -72,8 +72,8 @@ These are flights with a special Tomorrowland act on board. Magic in the sky...
 > In the Travel Shop and Price Simulator it is clearly mentioned when it's a Special Tomorrowland Party Flight.
 
  
-
-The different departure cities will be available in the Price Simulator soon.
+### **Info for all flights**
+The different departure cities will be available in the Price Simulator at a later date.
 
 > **IMPORTANT:** If you don't take the flight to Brussels, your flight to your home country will be cancelled automatically. Therefore it's important to inform Global Journey if you want to keep your seat on the flight back home.
 
