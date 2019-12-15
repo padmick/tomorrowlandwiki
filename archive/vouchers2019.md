@@ -2,6 +2,8 @@ Vouchers are additional add ons to enhance your Tomorrowland experience. In 2019
 
 In 2019 Vouchers went on sale **June 6th, 17h00 CEST.** 
 
+**Please Note that this is based on the experience of 2019** - Experience and vouchers are may change.
+
 # Parking Vouchers
 
 **Note - Parking Vouchers are cheaper to purchase in advance, they are more expensive on the day** - The prices below are the ADVANCE price online using the voucher sale.
@@ -72,7 +74,15 @@ Menu (Changed daily) but a mixture of: Pancakes, Fried egg with bacon, Vegetable
 **FARMHOUSE BREAKFAST** - €20 for 1 Day; €56 for 3 Day - Not available for Montagoe accommodation (See Montagoe Breakfast below)
 
 
-Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional cost)
+Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional Items with cost below)
+
+
+**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - Only available for Montagoe guests. A Buffet were you are allowed 1 walk through the buffet but were permitted to take two plates.
+
+You could also buy this on the day (Same price) if you did not pre-book a voucher (warning - this might not be the same for future years)
+
+Menu: Buffet-style spread with pastry, Breads, Yogurt, Granola, Eggs, Fruit, Cereals, Bacon, Juice, Cold meats, Cheese.
+More (Additional Items) with cost below
 
 Additional items:
 
@@ -90,12 +100,15 @@ Additional items:
 | Sticks on a Plate       | 6              |
 
 
-**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - Only available for Montagoe guests
-
-Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional cost above)
-
-
 **CAMP2CAMP** Rent camping gear and have a positive impact on both a social and ecological level. 
+
+Note - There is a deposit that is refundable when the item is returned.
+
+
+
+
+
+
 **COLD BEER PICK-UP** A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time was 1600.
 
 # Food Experiences
