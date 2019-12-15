@@ -100,7 +100,9 @@ Additional items:
 | Sticks on a Plate       | 6              |
 
 
-**CAMP2CAMP** Rent camping gear and have a positive impact on both a social and ecological level. 
+**CAMP2CAMP**
+
+Rent camping gear and have a positive impact on both a social and ecological level. 
 
 Note - There is a deposit that is refundable when the item is returned.
 
