@@ -2,7 +2,7 @@
 
 Global journey is a way to add unique experiences to your tomorrowland journey. As well as receiving a tomorrowland ticket you can book transport and unique experiences such as:
 
-- [Train packages](#**Train packages**)
+- Train packages
 - Flight packages
 - Hotel Packages
 - Bus packages
@@ -48,7 +48,7 @@ Global Journey offers you Flight Packages with flights departing from all over t
 - Detox Day (for those who depart on Tuesday)
  
 
-**Flight Packages Accommodation**
+## **Flight Packages Accommodation**
 
 For your accommodation you can choose between:
 
