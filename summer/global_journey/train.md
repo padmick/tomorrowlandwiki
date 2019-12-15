@@ -24,4 +24,4 @@ For your accommodation you can choose between:
 ## **Prices**
 Coming Soon
 
-[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/about/wiki/create/summer/global_journey)
+[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey)
