@@ -12,7 +12,7 @@ Global journey is a way to add unique experiences to your tomorrowland journey. 
 - Surprise package
 
 # **Train packages**
-Global Journey offers you Train Packages with trains departing from our neighbouring countries. Travel together with the People of Tomorrow to unite at Tomorrowland.
+Global Journey offers you Train Packages with trains departing from our neighboring countries. Travel together with the People of Tomorrow to unite at Tomorrowland.
 
 **TRAIN PACKAGES INCLUDE:**
 
@@ -94,7 +94,7 @@ Travellers who return home on Tuesday are offered a Detox Day. On Monday you can
 
 [](https://www.facebook.com/tomorrowland/videos/10155535457264177/)
 
-# Bus Packages
+# **Bus Packages**
 
 Travel by bus from one of the departing cities where a dedicated Global Journey host welcomes you and guides you to the gates of Tomorrowland. 
 
@@ -147,7 +147,7 @@ Most up to date pick up locations are [here](https://www.tomorrowland.com/en/glo
 
 > Bus Packages are **only** in combination with DreamVille.
 
-# Hotel Packages
+# **Hotel Packages**
 
 Global Journey Hotel Packages are especially for people who arrive by own means and want to enjoy the unity of the People of Tomorrow. You can stay at one of the hostels or hotels chosen by Tomorrowland.  
  
@@ -184,3 +184,67 @@ Travellers who arrive on Wednesday are offered a [Belgian Journey](https://www.t
 Travellers who arrive on Thursday and are staying in a hostel or hotel can go to [Invited Brussels](https://www.tomorrowland.com/en/global-journey/experiences/invited-brussels). An official Global Journey pre-party on a unique location in Brussels on Thursday evening. Feel the magic and meet new friends.
 
 Travellers who return home on Tuesday are offered a [Detox Day](https://www.tomorrowland.com/en/global-journey/detox-day). On Monday you can recover from the Madness at a unique location with some relaxing and healthy activities.
+
+# Friendship Travel Packages
+
+Global Journey offers you the ultimate way to experience Tomorrowland with a group of friends. You can choose between a B&B, apartment, house or a Train Hostel located in Brussels.
+
+The Tomorrowland Magic can already start at your home. Global Journey offers to pick you and your friends up at a location within 200km from the accommodation you have chosen which is unique compared to other travel packages.
+
+**Friendship Travel Packages Include:**
+
+- Accommodation
+- Tomorrowland Ticket - Full Madness Pass (Regular or Comfort)
+- Daily Newspaper
+- Tomorrowland Souvenir Bag
+- Daily transfers to Tomorrowland and back
+- Transfer to and from the accommodation (max distance from the accommodation is 200km. For example from airport to accommodation)
+ 
+
+**Accommodation**
+
+You can choose between these accommodation types:
+
+- Bed & Breakfast
+- House or Villa
+- Apartment
+- Train Hostel
+
+# Discover Europe
+
+Global Journey offers you a unique travel adventure to Discover Europe in a different way. Your trip takes you to 3, 4 or 5 European cities and a weekend of Magic. 
+
+In each city a program with different activities invites you to connect and make friends with people from all over the world.
+
+A local Discover Europe host will welcome you at each destination and will assure you make most out of your trip.
+
+On top you will receive a special Discover Europe Travel Guide, including recommendations by locals & Dj’s for the best bars, the nicest restaurants and the hottest clubs.
+
+**All Packages Include:**
+
+- Arrival on Monday July 6th, Thursday July 9th or Sunday July 12th
+- Travel 19 - 15 – 13 or 12 days 
+- Visit 5 – 4 or 3 European cities
+- Accommodation (DreamVille and/or Hostel or Hotel)
+- Tomorrowland Ticket - Full Madness Pass (Regular or Comfort)
+- Transport between your first city and your last city
+- All necessary transfers
+- Discover Europe Host
+- Discover Europe Activities – see below
+- Tomorrowland Souvenir Bag
+- Discover Europe Welcome Gift in each city 
+- Discover Europe Travel Guide
+- Newspaper during Tomorrowland 
+ 
+
+**Cities**
+
+During the Discover Europe journey, you can choose up to 5 European cities.
+
+- Amsterdam
+- Barcelona
+- Berlin
+- Ibiza
+- Paris
+- Prague
+- Brussels
