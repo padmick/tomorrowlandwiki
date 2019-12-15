@@ -24,7 +24,7 @@ Lockers are available at both Dreamville and Tomorrowland to secure your belongi
 | XX Large    | 30          | 60         | 50         |
 
 
-* Tomorrowland Lockers 
+**Tomorrowland Lockers** 
 
 Tomorrowland lockers are found at the festival site - they can not be accessed outside the festival hours.
 
@@ -36,7 +36,7 @@ Tomorrowland lockers are found at the festival site - they can not be accessed o
 | Large (3)     | 20.00     |
 | X Large (3)   | 25.00     |
 
-* Dreamville Lockers
+**Dreamville Lockers**
 
 Dreamville lockers are found in Dreamville and can be accessed 24h a day
 
