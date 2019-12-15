@@ -49,18 +49,53 @@ Dreamville lockers are found in Dreamville and can be accessed 24h a day
 
 # Shuttles
 
-* Shuttles to Tomorrowland
-* Airport Shuttles to Dreamville
+**Shuttles to Tomorrowland**
+
+There are daily shuttles from various town and cities to Tomorrowland. A return shuttle trip costs €20. The shuttles ran Friday, Saturday and Sunday
+
+Shuttle towns were: Aalst, Arendonk, Brussels, Eindhoven, Geel, Genk, Gent, Hasselt, Leuven, Liège, Sint-Truiden, Tienen, Turnhout
+
+**Airport Shuttles to Dreamville**
+There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. A Return shuttle trip cost [X]
 
 # Dreamville Extras
 
-Make your stay at DreamVille even more comfortable with one of the DreamVille vouchers.
+There are loads of additional vouchers to enhance your Dreamville stay.
+**Note Menus may change each year** this is just an example of 2019.
 
-* **ALPRO BREAKFAST -** Start your day with a delicious and healthy breakfast combination.This Alpro combination contains a breakfast bowl, fresh smoothie and a nice cup of coffee.Pick-up your Breakfast at the Breakfast Corner by Alpro between 08h00 – 11h00.
-* **FARMHOUSE BREAKFAST -** Breakfast at the “Farmhouse”. This breakfast is only available for visitors who bought a Magnificent Greens, CAMP2CAMP pre-pitched tent, Friendship or Easy Tent Package.
-* **MONTAGOE BREAKFAST -** Breakfast served at the “Montagoe”. This breakfast is only available for visitors who bought a DreamLodge, Relax Room, Cabana, Kokono or Ensuite Package.
-* **CAMP2CAMP -** Rent camping gear and have a positive impact on both a social and ecological level. 
-* **COLD BEER PICK-UP -** A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time was 1600.
+**ALPRO BREAKFAST** - €19 for 1 Day (08:00 - 11:00)
+
+Menu (Changed daily) but a mixture of: Pancakes, Fried egg with bacon, Vegetables,  Bread, Alpro cold coffee, Caffé Soja Karamel, Caffé Amandel
+
+
+**FARMHOUSE BREAKFAST** - €20 for 1 Day; €56 for 3 Day - Not available for Montagoe accommodation (See Montagoe Breakfast below)
+
+
+Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional cost)
+
+Additional items:
+
+| Food                    | Price (Pearls) |
+|-------------------------|----------------|
+| Red Fruit Yogurt Bread  | 5              |
+| Lebanese Bread          | 5              |
+| Watermelon Ham Bread    | 5              |
+| Grilled Vegetable Bread | 5              |
+| Burrata                 | 6.5            |
+| Fresh Pasta             | 6              |
+| Poached Egg             | 5              |
+| Salmon                  | 6              |
+| Steak                   | 8              |
+| Sticks on a Plate       | 6              |
+
+
+**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - Only available for Montagoe guests
+
+Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional cost above)
+
+
+**CAMP2CAMP** Rent camping gear and have a positive impact on both a social and ecological level. 
+**COLD BEER PICK-UP** A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time was 1600.
 
 # Food Experiences
 
