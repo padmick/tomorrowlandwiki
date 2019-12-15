@@ -6,14 +6,46 @@ In 2019 Vouchers went on sale **June 6th, 17h00 CEST.** 
 
 **Note - Parking Vouchers are cheaper to purchase in advance, they are more expensive on the day** - The prices below are the ADVANCE price online using the voucher sale.
 
-* Dreamville Parking (Valid 5 days Thursday - Monday)
-* Tomorrowland Parking 1 day
-* Tomororwland Parking 3 days
+* Dreamville Parking (Valid 5 days Thursday - Monday) - €20
+* Tomorrowland Parking 1 day - €10
+* Tomororwland Parking 3 days - €20
+
+If you leave the car park and return later you must purchase a new voucher. Vouchers are only valid for one entrance.
 
 # Lockers
 
+Lockers are available at both Dreamville and Tomorrowland to secure your belongings. The dimensions of the lockers are as follows:
+
+| Locker Size | Height (cm) | Width (cm) | Depth (cm) |
+|-------------|-------------|------------|------------|
+| Medium      | 24          | 28         | 50         |
+| Large       | 35          | 28         | 50         |
+| X Large     | 37          | 36         | 56         |
+| XX Large    | 30          | 60         | 50         |
+
+
 * Tomorrowland Lockers 
+
+Tomorrowland lockers are found at the festival site - they can not be accessed outside the festival hours.
+
+| Locker (Days) | Price (€) |
+|---------------|-----------|
+| Medium (1)    | 6.00      |
+| Large (1)     | 8.00      |
+| Medium (3)    | 15.00     |
+| Large (3)     | 20.00     |
+| X Large (3)   | 25.00     |
+
 * Dreamville Lockers
+
+Dreamville lockers are found in Dreamville and can be accessed 24h a day
+
+| Locker (5 Days) | Price (€) |
+|-----------------|-----------|
+| Medium          | 20.00     |
+| Large           | 25.00     |
+| X Large         | 30.00     |
+| XX Large        | 40.00     |
 
 # Shuttles
 
