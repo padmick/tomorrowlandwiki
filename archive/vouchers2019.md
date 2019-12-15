@@ -77,7 +77,7 @@ Menu (Changed daily) but a mixture of: Pancakes, Fried egg with bacon, Vegetable
 Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional Items with cost below)
 
 
-**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - 07:30 - 12:30 - Only available for Montagoe guests. A Buffet were you are allowed 1 walk through the buffet but were permitted to take two plates.
+**MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - 07:30 to 12:30 - Only available for Montagoe guests. A Buffet were you are allowed 1 walk through the buffet but were permitted to take two plates.
 
 You could also buy this on the day (Same price) if you did not pre-book a voucher (warning - this might not be the same for future years)
 
