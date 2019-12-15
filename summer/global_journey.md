@@ -8,5 +8,5 @@ Global journey is a way to add unique experiences to your tomorrowland journey. 
 - [Bus packages](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey/bus)
 - [Friendship travel packages](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey/friendship_travel)
 - [Discover Europe](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey/discover_europe)
-- Discover Belgium
+- [Discover Belgium](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey/discover_belgium)
 - Surprise package
