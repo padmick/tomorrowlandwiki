@@ -2,7 +2,7 @@
 
 Global journey is a way to add unique experiences to your tomorrowland journey. As well as receiving a tomorrowland ticket you can book transport and unique experiences such as:
 
-- Train packages
+- [Train packages](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey/train)
 - Flight packages
 - Hotel Packages
 - Bus packages
