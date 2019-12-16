@@ -1,5 +1,7 @@
 !!**IMPORTANT : This list is based on 2019 but always check at the festival to be sure - This List might not be 100% accurate and recipes can change**!!
 
+[Return to Food Prices](https://www.reddit.com/r/Tomorrowland/wiki/summer/food)
+
 #Belgian Fries
 
 | Food          | Gluten Free | Lactose Free | Veggie | Vegan |
