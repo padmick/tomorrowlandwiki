@@ -8,7 +8,7 @@ Brands may change based on the Sponsors - check them out [here](https://www.redd
 
 #Alpro
 
-| Item                             | Description                                             |                             |
+| ITEM                             | DESCRIPTION                                             | PRICE (Pearl)               |
 |----------------------------------|---------------------------------------------------------|-----------------------------|
 | Pleasure Smoothie                | Alpro almond drink, strawberry, mango, a touch of mint  | 3                           |
 | Magic Smoothie                   | Alpro coconut drink, pineapple, banana, a touch of mint | 3                           |
@@ -26,65 +26,64 @@ Brands may change based on the Sponsors - check them out [here](https://www.redd
 
 #Bar
 
-| Bar                                                                |       |
-|--------------------------------------------------------------------|-------|
-| Item                                                               | Price |
-| Jupiler (330ml)                                                    | 2     |
-| Jupiler XL (500ml)                                                 | 3.75  |
-| Hoegaarden Rosee                                                   | 2     |
-| Cubanisto                                                          | 3.5   |
-| Pepsi/Pepsi Max                                                    | 2     |
-| 7Up / 7Up free                                                     | 2     |
-| Mirinda Orange                                                     | 2     |
-| Looza Orange                                                       | 2.5   |
-| Organics Tonic by Red Bull                                         | 2     |
-| Lipton Ice Tea (Sparkling/Green/Peach)                             | 2     |
-| Spa Reine (330ml)                                                  | 2     |
-| Spa Reine/Sparkling/Grapefruit (500ml)                             | 2.5   |
-| Red Bull Energy Regular/Sugar Free/ Sugar Free Lime / Green/ White | 2     |
-| White Wine / Rose Wine                                             | 4     |
-| Coupe Cava Vallformosa                                             | 4.25  |
-| Absolut Vodka + Mixer                                              | 6.5   |
-| Havana Club Especial Rum + Mixer                                   | 6.5   |
-| Beefeater Gin + Mixer                                              | 6.5   |
-| Jameson Whiskey + Mixer                                            | 6.5   |
-| Lillet + Tonic                                                     | 5.5   |
-| Vodka Redbull in Tomorrowland Illuminated Cup                      | 7.5   |
-| Friendship Cupholder                                               | 0.5   |
+| ITEM                                                               | PRICE (Pearl) |
+|--------------------------------------------------------------------|---------------|
+| Jupiler (330ml)                                                    | 2             |
+| Jupiler XL (500ml)                                                 | 3.75          |
+| Hoegaarden Rosee                                                   | 2             |
+| Cubanisto                                                          | 3.5           |
+| Pepsi/Pepsi Max                                                    | 2             |
+| 7Up / 7Up free                                                     | 2             |
+| Mirinda Orange                                                     | 2             |
+| Looza Orange                                                       | 2.5           |
+| Organics Tonic by Red Bull                                         | 2             |
+| Lipton Ice Tea (Sparkling/Green/Peach)                             | 2             |
+| Spa Reine (330ml)                                                  | 2             |
+| Spa Reine/Sparkling/Grapefruit (500ml)                             | 2.5           |
+| Red Bull Energy Regular/Sugar Free/ Sugar Free Lime / Green/ White | 2             |
+| White Wine / Rose Wine                                             | 4             |
+| Coupe Cava Vallformosa                                             | 4.25          |
+| Absolut Vodka + Mixer                                              | 6.5           |
+| Havana Club Especial Rum + Mixer                                   | 6.5           |
+| Beefeater Gin + Mixer                                              | 6.5           |
+| Jameson Whiskey + Mixer                                            | 6.5           |
+| Lillet + Tonic                                                     | 5.5           |
+| Vodka Redbull in Tomorrowland Illuminated Cup                      | 7.5           |
+| Friendship Cupholder                                               | 0.5           |
 
 #Belgian Beer Cafe
 
-| ITEM                              | PRICE |
-|-----------------------------------|-------|
-| Ginette Beer                      | 3     |
-| Ginette Lager (330ml) from tap    | 4     |
-| Ginette Triple (330ml)            | 4     |
-| Ginette Fruit (330ml)             | 4     |
-| Ginette White (330ml)             | 4     |
-| Ginette Blond (330ml)             | 4     |
-| Leffe Blond (330ml) from tap      | 4     |
-| Hoegaarden Rosee (250ml) from tap | 2.5   |
-| Karmeliet (330ml) from tap        | 4.5   |
-| Kwak (330ml) from tap             | 4.5   |
-| Spa Reine (330ml)                 | 2     |
+| ITEM                              | PRICE (Pearl) |
+|-----------------------------------|---------------|
+| Ginette Beer                      | 3             |
+| Ginette Lager (330ml) from tap    | 4             |
+| Ginette Triple (330ml)            | 4             |
+| Ginette Fruit (330ml)             | 4             |
+| Ginette White (330ml)             | 4             |
+| Ginette Blond (330ml)             | 4             |
+| Leffe Blond (330ml) from tap      | 4             |
+| Hoegaarden Rosee (250ml) from tap | 2.5           |
+| Karmeliet (330ml) from tap        | 4.5           |
+| Kwak (330ml) from tap             | 4.5           |
+| Spa Reine (330ml)                 | 2             |
 
 #Havana Club Bar
 
-| ITEM                        | Ingredients                                                     | PRICE |
-|-----------------------------|-----------------------------------------------------------------|-------|
-| Cocktail                    |                                                                 |       |
-| TML XV Havana Club Cocktail | Havana Club TML XV, Apricot, Soft Spices, Lime Juice, Green Tea | 8     |
-| Havana Limon                | Havana Club Especial, 7up Lemon, Lime                           | 6.5   |
-| Frozen Daiquiri             | Havana Club 3 Anos, Cane Sugar, Lime                            | 6.75  |
-| Havana 7Y Ginger Beer       | Havana Club 7 Anos, Fever Tree Ginger Beer                      | 6.75  |
-| TML XV Havana Club          | Limited Edition 15 year Anniversary Rum                         | 6     |
+| ITEM                        | INGREDIENTS                                                     | PRICE (Pearl) |
+|-----------------------------|-----------------------------------------------------------------|---------------|
+| Cocktail                    |                                                                 |               |
+| TML XV Havana Club Cocktail | Havana Club TML XV, Apricot, Soft Spices, Lime Juice, Green Tea | 8             |
+| Havana Limon                | Havana Club Especial, 7up Lemon, Lime                           | 6.5           |
+| Frozen Daiquiri             | Havana Club 3 Anos, Cane Sugar, Lime                            | 6.75          |
+| Havana 7Y Ginger Beer       | Havana Club 7 Anos, Fever Tree Ginger Beer                      | 6.75          |
+| TML XV Havana Club          | Limited Edition 15 year Anniversary Rum                         | 6             |
 
 #Pepsi Max Bar
 
-| ITEM             | PRICE |
-|------------------|-------|
-| Cuba Libre       | 6.5   |
-| White Russian    | 6.5   |
-| Pepsi Max        | 2     |
-| Pepsi Max Lemon  | 2     |
-| Pepsi Max Cherry | 2     |
+| ITEM             | PRICE (Pearl) |
+|------------------|---------------|
+| Cuba Libre       | 6.5           |
+| White Russian    | 6.5           |
+| Pepsi Max        | 2             |
+| Pepsi Max Lemon  | 2             |
+| Pepsi Max Cherry | 2             |
