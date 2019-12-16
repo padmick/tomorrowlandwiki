@@ -6,7 +6,8 @@ Tomorrowland has hundreds of food and drink outlets, offering options for everyo
 
 In 2019: **1 Pearl = €1.60**
 
-There is also plenty of food options for those with dietary requirements. In 2019 a list of suitable food for different dietary requirements can be found here. **This list is accurate as of 2019 but always check at the festival to be sure**
+There is also plenty of food options for those with dietary requirements. In 2019 a list of suitable food for different dietary requirements can be found here.  There are also foods listed here that aren't in the list below because we have no record of the price.
+
 
 #Bakery
 
