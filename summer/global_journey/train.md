@@ -1,3 +1,5 @@
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+
 # **Train Packages Overview**
 Global Journey offers you Train Packages with trains departing from our neighboring countries. Travel together with the People of Tomorrow to unite at Tomorrowland.
 
