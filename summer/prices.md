@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 # General Ticket Information
 
@@ -219,4 +219,4 @@ For full details see the [Accommodation Wiki](https://www.reddit.com/r/Tomorrowl
 
 Starting from €50,000 - To book e-mail Mansion@dreamville.be
 
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
