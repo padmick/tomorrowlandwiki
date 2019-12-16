@@ -78,6 +78,21 @@ Brands may change based on the Sponsors - check them out [here](https://www.redd
 | Paloma Cocktail             |                                        | 7.5 P         |
 | Friendship Jar 2L Cocktail  |                                        | 40 P          |
 
+#Coffee & Tea 
+
+Note: Regular Coffee is free for Montagoe guests in the Montagoe area of Dreamville (2019)
+
+| ITEM                    | PRICE (Pearl) |
+|-------------------------|---------------|
+| Espresso                | 1.5           |
+| Coffee                  | 2             |
+| Cappucino               | 3             |
+| Cappucino + Syrup       | 3.5           |
+| Latte Macchiato         | 3.5           |
+| Latte Macchiato + Syrup | 4             |
+| Iced Latte              | 3.5           |
+| Tea                     | 2             |
+
 #Havana Club Bar
 
 | ITEM                        | INGREDIENTS                                                     | PRICE (Pearl) |
