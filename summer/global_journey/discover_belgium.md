@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 # **Discover Belgium**
 
@@ -44,4 +44,4 @@ For your accommodation you can choose between:
 ## **Prices**
 Coming Soon
 
-[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey)
+[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
