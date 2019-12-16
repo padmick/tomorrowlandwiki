@@ -1,3 +1,5 @@
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+
 New year, new guide! Here we will share everything we have learnt in the past 15 years to help you maximize your festival experience. All suggestions, ideas and experiences are very welcome in the comments and we will update as necessary! Tomorrowland 2020: We can't wait!!!
 
 **NOTE**: Everything is based on experiences from previous years and is subject to change. These are based on the actual rules too. Some people might get off with all kinds of things but NEVER expect that. Official info can be found at the [Tomorrowland homepage](https://tomorrowland.com/) and [Tomorrowland FAQ](https://www.tomorrowland.com/en/festival/faq) or [Dreamville FAQ](https://www.tomorrowland.com/en/dreamville/faq)
@@ -218,3 +220,5 @@ Tomorrowland uses an electronic payment system in your bracelet. Your bracelet i
 26. Some of the busses leave 40 minutes away from Tomorrowland by walking. They were given free water and there were artists
 
 ***HAVE FUN AND RAVE HARD!!!!!! :)***
+
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
