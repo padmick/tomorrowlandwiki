@@ -69,14 +69,17 @@ Brands may change based on the Sponsors - check them out [here](https://www.redd
 
 #Cocktails
 
-| ITEM                        | INGREDIENTS                            | PRICE (Pearl) |
-|-----------------------------|----------------------------------------|---------------|
-| Celebration Mule            |  Vodka, Ginger Beer, Citrus, Basil     | 7.25 P        |
-| TML Cocktail                | Vodka, Cucumber, Lime, Honey, Lavender | 7.25 P        |
-| TML Cocktail Non-Alcoholic  | w/ 7Up Cucumber, Lime, Honey, Lavender | 4.5 P         |
-| Mojito                      |                                        | 7.25 P        |
-| Paloma Cocktail             |                                        | 7.5 P         |
-| Friendship Jar 2L Cocktail  |                                        | 40 P          |
+| ITEM                        | INGREDIENTS                                       | PRICE (Pearl) |
+|-----------------------------|---------------------------------------------------|---------------|
+| Celebration Mule            |  Vodka, Ginger Beer, Citrus, Basil                | 7.25          |
+| TML Cocktail                | Vodka, Cucumber, Lime, Honey, Lavender            | 7.25          |
+| TML Cocktail Non-Alcoholic  | w/ 7Up Cucumber, Lime, Honey, Lavender            | 4.5           |
+| Mojito                      |                                                   | 7.25          |
+| Paloma Cocktail             |                                                   | 7.5           |
+| Friendship Jar 2L Cocktail  |                                                   | 40            |
+| Supprising Sage             | Lipton Ice Tea Green, Gin, Sage, Olive            | 7.25          |
+| Lipton Mocktail             | Lipton Icetea Peach, Blackberry, Vanilla, Lime    | 4.5           |
+| Minty Matcha                | Lipton Ice Tea Matcha, Mint, Dill, Cucumber, Salt | 4.5           |
 
 #Coffee & Tea 
 
