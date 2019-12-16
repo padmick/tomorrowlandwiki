@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 # 2020 Dates
 
@@ -131,4 +131,4 @@
 * Aug 5, 2016 - [2016 Aftermovie](https://www.youtube.com/watch?v=AtdnWYqbMwc)
 * Sep 15, 2015 - [2015 Aftermovie](https://www.youtube.com/watch?v=HuAxVfZasUk)
 
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
