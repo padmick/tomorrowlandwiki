@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 # **Bus Packages**
 
@@ -56,4 +56,4 @@ Most up to date pick up locations are [here](https://www.tomorrowland.com/en/glo
 ## **Prices**
 Coming Soon
 
-[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey)
+[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
