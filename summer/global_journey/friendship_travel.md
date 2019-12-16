@@ -1,3 +1,5 @@
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+
 # Friendship Travel Packages
 
 Global Journey offers you the ultimate way to experience Tomorrowland with a group of friends. You can choose between a B&B, apartment, house or a Train Hostel located in Brussels.
