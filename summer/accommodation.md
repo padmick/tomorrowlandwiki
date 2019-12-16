@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 **If you are viewing this on mobile Images will not display**
 #**Magnificent Greens**
@@ -329,4 +329,4 @@ This package includes: 
 * Clothing rack
 * Parking
 
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
