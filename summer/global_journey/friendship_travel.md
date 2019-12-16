@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 # Friendship Travel Packages
 
@@ -28,4 +28,4 @@ You can choose between these accommodation types:
 ## **Prices**
 Coming Soon
 
-[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey)
+[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
