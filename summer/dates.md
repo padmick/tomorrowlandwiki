@@ -1,3 +1,5 @@
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+
 # 2020 Dates
 
 * 12.12. Theme, teaser, dates & info published 11:00 CET
@@ -128,3 +130,5 @@
 * Sep 6, 2017 - [2017 Aftermovie](https://www.youtube.com/watch?v=6dVFy4d61gU)
 * Aug 5, 2016 - [2016 Aftermovie](https://www.youtube.com/watch?v=AtdnWYqbMwc)
 * Sep 15, 2015 - [2015 Aftermovie](https://www.youtube.com/watch?v=HuAxVfZasUk)
+
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
