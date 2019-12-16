@@ -57,7 +57,7 @@ Travellers who arrive on Thursday and are staying in a hostel or hotel can go to
 
 Travellers who return home on Tuesday are offered a Detox Day. On Monday you can recover from the Madness at a unique location with some relaxing and healthy activities.
 
-[](https://www.facebook.com/tomorrowland/videos/10155535457264177/)
+link:url(%%GJFlight1%%)
 
 ## **Prices**
 Coming Soon
