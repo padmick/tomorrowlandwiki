@@ -8,7 +8,7 @@ In 2019: **1 Pearl = €1.60**
 
 There is also plenty of food options for those with dietary requirements. In 2019 a list of suitable food for different dietary requirements can be found below.  There are also foods listed here that aren't in the list below because we have no record of the price.
 
-[Additional Food(No Price) and Dietary Requirements](https://www.reddit.com/r/Tomorrowland/wiki/summer/food/dietry)
+[Additional Food(No Price) and Dietary Requirements](https://www.reddit.com/r/Tomorrowland/wiki/summer/food/dietary)
 
 
 #Bakery
