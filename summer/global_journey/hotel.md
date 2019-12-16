@@ -1,3 +1,5 @@
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+
 # **Hotel Packages**
 
 Global Journey Hotel Packages are especially for people who arrive by own means and want to enjoy the unity of the People of Tomorrow. You can stay at one of the hostels or hotels chosen by Tomorrowland.  
