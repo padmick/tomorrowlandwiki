@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 New year, new guide! Here we will share everything we have learnt in the past 15 years to help you maximize your festival experience. All suggestions, ideas and experiences are very welcome in the comments and we will update as necessary! Tomorrowland 2020: We can't wait!!!
 
@@ -221,4 +221,4 @@ Tomorrowland uses an electronic payment system in your bracelet. Your bracelet i
 
 ***HAVE FUN AND RAVE HARD!!!!!! :)***
 
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
