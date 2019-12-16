@@ -1,3 +1,5 @@
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+
 # Discover Europe
 
 Global Journey offers you a unique travel adventure to Discover Europe in a different way. Your trip takes you to 3, 4 or 5 European cities and a weekend of Magic. 
