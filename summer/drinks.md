@@ -67,6 +67,17 @@ Brands may change based on the Sponsors - check them out [here](https://www.redd
 | Kwak (330ml) from tap             | 4.5           |
 | Spa Reine (330ml)                 | 2             |
 
+#Cocktails
+
+| ITEM                        | INGREDIENTS                            | PRICE (Pearl) |
+|-----------------------------|----------------------------------------|---------------|
+| Celebration Mule            |  Vodka, Ginger Beer, Citrus, Basil     | 7.25 P        |
+| TML Cocktail                | Vodka, Cucumber, Lime, Honey, Lavender | 7.25 P        |
+| TML Cocktail Non-Alcoholic  | w/ 7Up Cucumber, Lime, Honey, Lavender | 4.5 P         |
+| Mojito                      |                                        | 7.25 P        |
+| Paloma Cocktail             |                                        | 7.5 P         |
+| Friendship Jar 2L Cocktail  |                                        | 40 P          |
+
 #Havana Club Bar
 
 | ITEM                        | INGREDIENTS                                                     | PRICE (Pearl) |
