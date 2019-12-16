@@ -1,4 +1,4 @@
-[**Return to Index**](https://www.reddit.com/r/Tomorrowland/about/wiki/index)
+[**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 # Surprise Package
 
@@ -18,4 +18,4 @@ This limited edition package includes 3 nights in a 4-star hotel (Brussels), a D
 ## **Prices**
 Coming Soon
 
-[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/global_journey)
+[Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
