@@ -8,15 +8,17 @@ In 2019 Vouchers went on sale **June 6th, 17h00 CEST.** 
 
 **Note - Parking Vouchers are cheaper to purchase in advance, they are more expensive on the day** - The prices below are the ADVANCE price online using the voucher sale.
 
-* Dreamville Parking (Valid 5 days Thursday - Monday) - €20
-* Tomorrowland Parking 1 day - €10
-* Tomororwland Parking 3 days - €20
+* Dreamville Parking (Valid 5 days Thursday - Monday) - **€20**
+* Tomorrowland Parking 1 day - **€10**
+* Tomororwland Parking 3 days - **€20**
 
-If you leave the car park and return later you must purchase a new voucher. Vouchers are only valid for one entrance.
+If you leave the car park and return later you must purchase a new voucher. Vouchers are only valid for one entrance and for the duration of the ticket.
 
 # Lockers
 
-Lockers are available at both Dreamville and Tomorrowland to secure your belongings. The dimensions of the lockers are as follows:
+Lockers are available at both Dreamville and Tomorrowland to secure your belongings. Lockers are an excellent way to keep belongings safe, and they are guarded 24 hours per day.
+
+ The dimensions of the lockers are as follows:
 
 | Locker Size | Height (cm) | Width (cm) | Depth (cm) |
 |-------------|-------------|------------|------------|
@@ -29,6 +31,8 @@ Lockers are available at both Dreamville and Tomorrowland to secure your belongi
 **Tomorrowland Lockers** 
 
 Tomorrowland lockers are found at the festival site - they can not be accessed outside the festival hours.
+
+It is possible to buy lockers at the festival if there are spares, but the size available may be limited.
 
 | Locker (Days) | Price (€) |
 |---------------|-----------|
@@ -59,23 +63,28 @@ Shuttle towns were: Aalst, Arendonk, Brussels, Eindhoven, Geel, Genk, Gent, Hass
 
 **Airport Shuttles to Dreamville**
 
-There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. €19 for a single trip (€38 return)
+There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. €19 for a single trip (€38 return). These shuttles run continuously throughout Thursday and morning - so don't worry if you have an early flight!
 
 # Dreamville Extras
 
 There are loads of additional vouchers to enhance your Dreamville stay.
+
 **Note Menus may change each year** this is just an example of 2019.
+
+&nbsp;
 
 **ALPRO BREAKFAST** - €19 for 1 Day (08:00 - 11:00)
 
 Menu (Changed daily) but a mixture of: Pancakes, Fried egg with bacon, Vegetables,  Bread, Alpro cold coffee, Caffé Soja Karamel, Caffé Amandel
 
+&nbsp;
 
 **FARMHOUSE BREAKFAST** - €20 for 1 Day; €56 for 3 Day - Not available for Montagoe accommodation (See Montagoe Breakfast below)
 
 
 Menu: Fresh Juice, Eggs, Variety of Bread, Spreads & Sweets, Crispy Granola, Yoghurt, More (Additional Items with cost below)
 
+&nbsp;
 
 **MONTAGOE BREAKFAST** €27 for 1 Day; €75 for 3 Day - 07:30 to 12:30 - Only available for Montagoe guests. A Buffet were you are allowed 1 walk through the buffet but were permitted to take two plates.
 
@@ -83,6 +92,8 @@ You could also buy this on the day (Same price) if you did not pre-book a vouche
 
 Menu: Buffet-style spread with pastry, Breads, Yogurt, Granola, Eggs, Fruit, Cereals, Bacon, Juice, Cold meats, Cheese.
 More (Additional Items) with cost below
+
+&nbsp;
 
 Additional items:
 
@@ -99,6 +110,7 @@ Additional items:
 | Steak                   | 8              |
 | Sticks on a Plate       | 6              |
 
+&nbsp;
 
 **CAMP2CAMP**
 
@@ -120,16 +132,65 @@ Note - There is a deposit that is refundable when the item is returned.
 | (2x Chair, Airbed, Sleeping Bag)  | .                        | .               | .                      |
 
 
+&nbsp;
 
 **COLD BEER PICK-UP** - €24
 
-A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time was 1600.
+A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent Greens but you can purchase them from any accommodation. NOTE - The last collection time is 1600.
+
+&nbsp;
 
 # Food Experiences
 
 Tomorrowland has incredible restaurants you can reserve a table at for 60-90 minutes.
 
 * **MESA (€37) -** Sharing great tastes of the world
+
+Mesa is all about sharing - food is provided for the whole table to share based on recipes from all over the world. There's plenty of food for everyone so get together with your friends, or meet new people, as you enjoy high quality food.  Mesa is a sit-down restaurant and each person receives a welcome cocktail as well as a glass of wine, and bottled water, to enjoy with their meal. The table shares a selection of Vegetarian, Meat and Fish.
+
+Did you know Mesa is a multi-award winning restaurant in Antwerp? Check out their [Instagram](https://www.instagram.com/mesaantwerp/)!
+
+![](%%Mesa1%%)
+
+
 * **BRASA (€36) -** Passion for the best grilled food
+
+Brasa is all about grilling - food cooked over an open Ofyr grill. Each person can choose between Meat, fish and vegetarian menus. Each menu consists of a starter, maincourse and dessert. Each person receives a glass of wine and bottled water to enjoy with their meal.
+
+Meat - Tomahawk beef steak
+
+Fish - Salmon
+
+Vegetarian - Burrata 
+
+Each Maincourse comes with Asparagus, Potatoes and Salad.
+
+![](%%Brasa1%%)
+
 * **B-EAT (€36) -** Unique recipe of Friendship, drinks, bites and music.
+
+B-Eat is about the music - A live DJ performs in an intimate club setting whilst canapes and drinks are passed out from mingling staff. In 2018 and before, the DJ was different for each set and you never knew who you would get until you turned up. 
+
+![](%%Beat1%%)
+
 * **APERTO AT THE MAINSTAGE(€39) -** Fine magical flavours 
+
+Aperto is about the view - Situated at the top of the Mainstage hill diners get a birds eye view down over the Mainstage. You have a choice of Meat, Fish or Vegetarian with a glass of wine and bottled water to complement your meal.
+
+**For all:**
+
+Appertiser (Mexico): Cornet root, Old cheese, Jalapeno N. Zealand: Herbias Cocktail India: Pani Puri, Corn, Chickpeas Mexico: Taco, Avocado, Horseradish
+
+A Choice of:
+
+Meat (Middle East): Lamb, Eggplant, Roasted Asparagus
+
+Fish: TBC
+
+Vegetarian (Noth Africa): Hand rolled Couscous, Pumpkin, Young Carrot, Asparagus
+
+**For all**
+
+Dessert (Europe): Raspberry, White Chocolate
+
+![](%%Aperto1%%)
