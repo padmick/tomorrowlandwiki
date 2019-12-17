@@ -29,6 +29,8 @@ The gathering is the welcome party situated on the Thursday before the festival 
 
 The Gathering is only accessible to Dreamville guests. There are bars situated at the Gathering, but it is also possible to bring your own drinks from the camp site. 
 
+![](%%Gathering1%%)
+
 # Facilities
 
 Dreamville has an extensive range of facilities that have various opening hours. Many food & drink outlets are open after the festival until around 2 or 3 am.
