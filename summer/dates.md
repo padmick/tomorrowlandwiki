@@ -1,5 +1,7 @@
 [**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
+![](%%General1%%)
+
 # 2020 Dates
 
 * 12.12. Theme, teaser, dates & info published 11:00 CET
