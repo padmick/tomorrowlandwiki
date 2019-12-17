@@ -26,4 +26,4 @@ This wiki is a work in progress and as new information is revealed we will add i
 
 10. [**Official Travel Partners**](https://www.reddit.com/r/Tomorrowland/wiki/summer/official_travel_partners)
 
-11. [**2019 Vouchers**](https://www.reddit.com/r/Tomorrowland/wiki/archive/vouchers2019)
+11. [**Archive - 2019 Vouchers**](https://www.reddit.com/r/Tomorrowland/wiki/archive/vouchers2019)
