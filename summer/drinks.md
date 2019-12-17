@@ -1,6 +1,6 @@
 [**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
-The list below is not a complete list - But a partial list of Drinks that could be found at the festival and inside Dreamville. Hope it gives you a good idea!
+The list below is not a complete list - But a partial list of Drinks that could be found at the festival and inside Dreamville. 
 
 Tomorrowland has hundreds of food and drink outlets, offering options for everyones taste!
 
