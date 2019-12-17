@@ -4,37 +4,9 @@ New year, new guide! Here we will share everything we have learnt in the past 15
 
 **NOTE**: Everything is based on experiences from previous years and is subject to change. These are based on the actual rules too. Some people might get off with all kinds of things but NEVER expect that. Official info can be found at the [Tomorrowland homepage](https://tomorrowland.com/) and [Tomorrowland FAQ](https://www.tomorrowland.com/en/festival/faq) or [Dreamville FAQ](https://www.tomorrowland.com/en/dreamville/faq)
 
-***For Tomorrowland Winter, see*** [***The Tomorrowland Winter 2020 Guide***](https://www.reddit.com/r/Tomorrowland/comments/czjbs7/guide_to_tomorrowland_winter_2020/)
 
 **2020 schedule (Older schedules** [can be found here](https://i.imgur.com/v7iJQQn.png))
 
-* 12.12. *Theme, teaser, dates & info published 11:00 CET*
-* 14.12. *Pre-registration opens 17:00 CET*
-* 18.01. **Global Journey-sale 17:00 CET**
-* 24.01. *Pre-registration for Belgian pre-sale ends 20:00 CET*
-* 25.01. *Belgian pre-sale 11:00 CET*
-* 25.01. **Worldwide pre-sale 17:00 CET**
-* 31.01. *Pre-registration ends 20:00 CET*
-* 01.02. **Worldwide sale 17:00 CET**
-
-&#x200B;
-
-* 16.07. *Weekend 1 - Dreamville opens*
-* 17.07. *Weekend 1 - Festival starts*
-* 23.07. *Weekend 2 - Dreamville opens*
-* 24.07. *Weekend 2 - Festival starts* 
-
-&#x200B;
-
-**When is the aftermovie coming out?**
-
-Earlier years it was posted on
-
-* Aug 9, 2019 - [2019 aftermovie](https://www.youtube.com/watch?v=hvIg3PTJWxs)
-* July 31, 2018 - [2018 Aftermovie](https://www.youtube.com/watch?v=HkyVTxH2fIM)
-* Sep 6, 2017 - [2017 Aftermovie](https://www.youtube.com/watch?v=6dVFy4d61gU)
-* Aug 5, 2016 -  [2016 Aftermovie](https://www.youtube.com/watch?v=AtdnWYqbMwc)
-* Sep 15, 2015 -  [2015 Aftermovie](https://www.youtube.com/watch?v=HuAxVfZasUk)
 
  
 
