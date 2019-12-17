@@ -10,7 +10,7 @@ This wiki is a work in progress and as new information is revealed we will add i
 
 2. [**Important Dates for the Summer Festival**](https://www.reddit.com/r/Tomorrowland/wiki/summer/dates)
 
-3. [**Prices**](https://www.reddit.com/r/Tomorrowland/about/wiki/summer/prices)
+3. [**Prices**](https://www.reddit.com/r/Tomorrowland/wiki/summer/prices)
 
 4. [**Tomorrowland Summer Edition Accommodation**](https://www.reddit.com/r/Tomorrowland/wiki/summer/accommodation)
 
