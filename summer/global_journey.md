@@ -13,4 +13,4 @@ Global journey is a way to add unique experiences to your tomorrowland journey. 
 # [**Discover Belgium**](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey/discover_belgium)
 # [**Surprise package**](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey/surprise_package)
 
-(%%GJMain%%)
+![](%%GJMain%%)
