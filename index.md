@@ -18,7 +18,7 @@ This wiki is a work in progress and as new information is revealed we will add i
 
 6. [**Global Journey**](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
 
-7. [**Food**](https://www.reddit.com/r/Tomorrowland/wiki/summer/food)
+7. [**Food**](https://www.reddit.com/r/Tomorrowland/wiki/summer/food) & [**Dietary**](https://www.reddit.com/r/Tomorrowland/wiki/summer/food/dietary)
 
 8. [**Drinks**](https://www.reddit.com/r/Tomorrowland/wiki/summer/drinks)
 
