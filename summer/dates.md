@@ -4,6 +4,7 @@
 
 * 12.12. Theme, teaser, dates & info published 11:00 CET
 * 14.12. Pre-registration opens 17:00 CET
+* 16.12. Friendship Garden Registration Opened
 * 18.01. **Global Journey-sale 17:00 CET**
 * 25.01. **Worldwide pre-sale 17:00 CET**
 * 31.01. Pre-registration ends 20:00 CET
