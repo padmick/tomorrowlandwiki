@@ -80,4 +80,6 @@ All transfers after your check-in until you check out are included in your packa
 ## **Prices**
 Coming Soon
 
+![](%%GJDiscoverEurope%%)
+
 [Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
