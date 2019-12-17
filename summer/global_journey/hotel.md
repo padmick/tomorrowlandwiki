@@ -41,4 +41,6 @@ Travellers who return home on Tuesday are offered a [Detox Day](https://www.tomo
 ## **Prices**
 Coming Soon
 
+![](%%GJHotel%%)
+
 [Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
