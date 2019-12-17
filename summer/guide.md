@@ -5,11 +5,6 @@ New year, new guide! Here we will share everything we have learnt in the past 15
 **NOTE**: Everything is based on experiences from previous years and is subject to change. These are based on the actual rules too. Some people might get off with all kinds of things but NEVER expect that. Official info can be found at the [Tomorrowland homepage](https://tomorrowland.com/) and [Tomorrowland FAQ](https://www.tomorrowland.com/en/festival/faq) or [Dreamville FAQ](https://www.tomorrowland.com/en/dreamville/faq)
 
 
-**2020 schedule (Older schedules** [can be found here](https://i.imgur.com/v7iJQQn.png))
-
-
- 
-
 **Is it hard to get tickets?**
 
 For a reasonable price, yes.
@@ -26,7 +21,7 @@ Both weekends can be bought in a single sale. There are no "both weekend"-ticket
 
 **How much do tickets cost?**
 
-\- [List of all 2019 ticket prices (Including Global Journey)](https://docs.google.com/spreadsheets/d/1CEcsrKMDGUiRJeyujH9WJy6N57D_S16l3Kv7VxmCUqI/edit#gid=1381254437) (Huge thanks to /u/Dagunz99)
+\- [List of all 2020 ticket prices](https://www.reddit.com/r/Tomorrowland/wiki/summer/prices)
 
 \- [List of all non-GJ 2018 ticket prices](https://edmfestivalguide.com/tomorrowland-tickets.html) (Thanks to/u/waitforiteriksen) and [List of most GJ 2018 ticket prices](https://docs.google.com/spreadsheets/d/1PwK2JzKfhllfk6pgRyV_1oF1aHGnibR4JJuNeTUXRZ8/edit#gid=925617043) (Thanks to /u/thebeatmix)
 
