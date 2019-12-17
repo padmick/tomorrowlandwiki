@@ -1,3 +1,5 @@
+There are a number of different types of accommodation at Tomorrowland - The list below is for all accommodation in 2020. Prices can be found [here](https://www.reddit.com/r/Tomorrowland/wiki/summer/prices) 
+
 [**Return to Index**](https://www.reddit.com/r/Tomorrowland/wiki/index)
 
 **If you are viewing this on mobile Images will not display**
