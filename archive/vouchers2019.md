@@ -144,7 +144,8 @@ A 24-pack cans of ice-cold Belgian beer. The collection point is in Magnificent 
 
 Tomorrowland has incredible restaurants you can reserve a table at for 60-90 minutes.
 
-####**MESA (€37) -** Sharing great tastes of the world
+####**MESA** 
+(€37) Sharing great tastes of the world
 
 Mesa is all about sharing - food is provided for the whole table to share based on recipes from all over the world. There's plenty of food for everyone so get together with your friends, or meet new people, as you enjoy high quality food.  Mesa is a sit-down restaurant and each person receives a welcome cocktail as well as a glass of wine, and bottled water, to enjoy with their meal. The table shares a selection of Vegetarian, Meat and Fish.
 
@@ -153,7 +154,8 @@ Did you know Mesa is a multi-award winning restaurant in Antwerp? Check out thei
 ![](%%Mesa1%%)
 
 
-####**BRASA (€36) -** Passion for the best grilled food
+####**BRASA**
+(€36) Passion for the best grilled food
 
 Brasa is all about grilling - food cooked over an open Ofyr grill. Each person can choose between Meat, fish and vegetarian menus. Each menu consists of a starter, maincourse and dessert. Each person receives a glass of wine and bottled water to enjoy with their meal.
 
@@ -167,13 +169,15 @@ Each Maincourse comes with Asparagus, Potatoes and Salad.
 
 ![](%%Brasa1%%)
 
-####**B-EAT (€36) -** Unique recipe of Friendship, drinks, bites and music.
+####**B-EAT**
+(€36) Unique recipe of Friendship, drinks, bites and music.
 
 B-Eat is about the music - A live DJ performs in an intimate club setting whilst canapes and drinks are passed out from mingling staff. In 2018 and before, the DJ was different for each set and you never knew who you would get until you turned up. 
 
 ![](%%Beat1%%)
 
-####**APERTO AT THE MAINSTAGE(€39) -** Fine magical flavours 
+####**APERTO AT THE MAINSTAGE**
+(€39) Fine magical flavours 
 
 Aperto is about the view - Situated at the top of the Mainstage hill diners get a birds eye view down over the Mainstage. You have a choice of Meat, Fish or Vegetarian with a glass of wine and bottled water to complement your meal.
 
