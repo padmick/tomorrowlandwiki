@@ -31,4 +31,4 @@ This wiki is a work in progress and as new information is revealed we will add i
 A). [**Archive - 2019 Vouchers**](https://www.reddit.com/r/Tomorrowland/wiki/archive/vouchers2019)
 
 
-Questions/Comments Please contact the Mod team
+Questions/Comments Please contact the [Mod team](https://www.reddit.com/r/Tomorrowland/about/moderators/)
