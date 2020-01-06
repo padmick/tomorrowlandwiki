@@ -80,6 +80,12 @@ All transfers after your check-in until you check out are included in your packa
 ## **Prices**
 Coming Soon
 
+## **Trip Reports**
+
+You can find some detailed reports from people who have attended Discover Europe in the following posts:
+
+[Report by u/999forever](https://www.reddit.com/r/Tomorrowland/comments/eklpg0/discover_europe_trip_report_and_review/)
+
 ![](%%GJDiscoverEurope%%)
 
 [Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
