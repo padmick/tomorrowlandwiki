@@ -28,4 +28,10 @@ Congrats! Welcome to the best weekend ever! Now you need to add your details to 
 
 > note! if you have bought a global journey package relax this is already done for you.
 
-##
+## I dont like my weekend anymore! Can I swap?
+
+Purchases are final, You can put your ticket on the exchange desk and try the waiting list for a new ticket.
+
+## Waiting list? When is that?
+
+Waiting list opens after the exchange desk closes when all the sales are over. Its on a first come first served basis.
