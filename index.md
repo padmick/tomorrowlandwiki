@@ -28,6 +28,8 @@ This wiki is a work in progress and as new information is revealed we will add i
 
 11. [**Sponsors**](https://www.reddit.com/r/Tomorrowland/wiki/information/sponsors)
 
+12. [**Common Questions and Answers**](https://www.reddit.com/r/Tomorrowland/wiki/information/faq)
+
 # Archive Info
 
 A). [**Archive - 2019 Vouchers**](https://www.reddit.com/r/Tomorrowland/wiki/archive/vouchers2019)
