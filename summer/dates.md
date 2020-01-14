@@ -10,6 +10,7 @@
 * 20.12. Top 20 Winner e-mails 16:50 CET
 * 06.01. Top 20 Sale Link 17:30 CET 
 * 09.01. **Top 20 Sale 17:00 CET**
+* 16.01. **FG Sale 17:00 CET**
 * 18.01. **Global Journey-sale 17:00 CET**
 * 25.01. **Worldwide pre-sale 17:00 CET**
 * 31.01. Pre-registration ends 20:00 CET
