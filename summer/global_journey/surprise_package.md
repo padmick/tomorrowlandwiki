@@ -16,6 +16,8 @@ This limited edition package includes 3 nights in a 4-star hotel (Brussels), a D
 > Your flight to Belgium is **not** included in this package. Your package starts in Belgium.
 
 ## **Prices**
-Coming Soon
+
+Solo Package: € 3100
+Duo Package: € 2300 per person
 
 [Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
