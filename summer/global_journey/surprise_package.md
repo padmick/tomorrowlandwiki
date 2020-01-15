@@ -18,6 +18,7 @@ This limited edition package includes 3 nights in a 4-star hotel (Brussels), a D
 ## **Prices**
 
 Solo Package: € 3100
+
 Duo Package: € 2300 per person
 
 [Return to Global Journey menu](https://www.reddit.com/r/Tomorrowland/wiki/summer/global_journey)
