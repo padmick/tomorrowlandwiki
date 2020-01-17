@@ -65,7 +65,7 @@ Shuttle towns were: Aalst, Arendonk, Brussels, Eindhoven, Geel, Genk, Gent, Hass
 
 **Airport Shuttles to Dreamville**
 
-There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. €19 for a single trip (€38 return). These shuttles run continuously throughout Thursday and morning - so don't worry if you have an early flight!
+There are shuttles from Brussels Airport to Dreamville on Thursday and Monday. €19 for a single trip (€38 return). These shuttles run continuously all day Thursday and Monday - so don't worry if you have an early flight!
 
 # Dreamville Extras
 
