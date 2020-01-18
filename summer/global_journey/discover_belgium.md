@@ -41,6 +41,8 @@ For your accommodation you can choose between:
 - Concept Hotels
 - A combination of a hotel with DreamVille
 
+> note: each hotel has its own times for shuttles to and from the festival which you receive on arrival.
+
 ## **Prices**
 
 | name mon to mon dreamville accom        | price (mon to mon dreamville accomdation) | hotel name mon to mon                                                                | hotel price example (hotel and mg greens package 1 pers) |
