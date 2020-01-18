@@ -6,15 +6,24 @@
 
 * 12.12. Theme, teaser, dates & info published 11:00 CET
 * 14.12. Pre-registration opens 17:00 CET
-* 16.12. Friendship Garden Registration Opened
+* 16.12. Friendship Garden Registration Opened 17:00 CET
 * 20.12. Top 20 Winner e-mails 16:50 CET
 * 06.01. Top 20 Sale Link 17:30 CET 
 * 09.01. **Top 20 Sale 17:00 CET**
+* 10.01. Boom/Rumst Resident Sale 19:00 CET
+* 13.01. Rupelstreek Resident Sale 20:00 CET
+* 14.01. FG Registration closed 12:00 CET
 * 16.01. **FG Sale 17:00 CET**
 * 18.01. **Global Journey-sale 17:00 CET**
+* 22.01. Erasmus Registration ends
+* 23.01. Erasmus Ticket Sale 17:00 CET
+* 25.01. Belgian Sale 11:00 CET
 * 25.01. **Worldwide pre-sale 17:00 CET**
 * 31.01. Pre-registration ends 20:00 CET
 * 01.02. **Worldwide sale 17:00 CET**
+* 02.02. Personalisation Starts
+* 21.01. Personalisation Ends
+
 
 &#x200B;
 
