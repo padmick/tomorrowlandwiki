@@ -15,6 +15,7 @@
 * 14.01. FG Registration closed 12:00 CET
 * 16.01. **FG Sale 17:00 CET**
 * 18.01. **Global Journey-sale 17:00 CET**
+* 20.01. [Stage Hosts announced](https://twitter.com/tomorrowland/status/1219258455422271489?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) 15:00 CET
 * 22.01. Erasmus Registration ends
 * 23.01. Erasmus Ticket Sale 17:00 CET
 * 25.01. Belgian Sale 11:00 CET
@@ -22,7 +23,7 @@
 * 31.01. Pre-registration ends 20:00 CET
 * 01.02. **Worldwide sale 17:00 CET**
 * 02.02. Personalisation Starts
-* 21.01. Personalisation Ends
+* 21.02. Personalisation Ends
 
 
 &#x200B;
