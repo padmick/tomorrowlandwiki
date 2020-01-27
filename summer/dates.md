@@ -18,6 +18,7 @@
 * 20.01. [Stage Hosts announced](https://twitter.com/tomorrowland/status/1219258455422271489?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet) 15:00 CET
 * 22.01. Erasmus Registration ends
 * 23.01. Erasmus Ticket Sale 17:00 CET
+* 24.01. [Full line up announced](https://twitter.com/tomorrowland/status/1220666874687623169)
 * 25.01. Belgian Sale 11:00 CET
 * 25.01. **Worldwide pre-sale 17:00 CET**
 * 31.01. Pre-registration ends 20:00 CET
