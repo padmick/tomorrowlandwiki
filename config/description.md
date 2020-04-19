@@ -1,1 +1,0 @@
-For those interested in or are attending Tomorrowland in Boom, Belgium, or Tomorrowland Winter in Alpe d'huez, France. Our goal is to connect and unite like minded individuals from all across the globe! We encourage everyone to share pictures, videos and discuss planning ideas. Remember everyone, Peace, Love, Unity, and Respect. 
